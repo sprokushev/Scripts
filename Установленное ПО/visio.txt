@@ -1,0 +1,777 @@
+Режим вывода команд на экран (ECHO) отключен.
+ABK2-10;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+ABK2-11;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+ABK2-2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+ABK2-7;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;MS Visio 2003 Руссификатор
+ABK2-7;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+ABK2-7;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ABK2-7;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+ABK2-8;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+ABK2-9;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+ABK2-NACH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+ABK2-NACH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+ABK2-NACH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ABK2-NACH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+ABK2-NACH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2553444) 32-Bit Edition
+ABK2-NACH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+ABK2-NACH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+ABK2-NACH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+AKSENOVAIA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+AKSENOVAIA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ANTONOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+ANTONOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+ANTONOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ANTONOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+ANTONOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ANTONOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+ANTONOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+ANTONOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ARHIV3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+ARHIV3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ARHIV-PC;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+ARHIV-PC;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+ARHIV-PC;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ARHIV-PC;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+ARHIV-PC;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ARHIV-PC;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+ARHIV-PC;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+ARHIV-PC;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+AT1-2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Профессиональный 2007
+AT1-2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2007
+AT1-2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Security Update for Microsoft Office Visio 2007 suites (KB2596595) 32-Bit Edition 
+AT1-2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2007 Service Pack 3 (SP3)
+AT1-2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2007
+AT1-2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2007 Service Pack 3 (SP3)
+AT1-2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Viewer 2007
+AT1-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+AT1-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+AT1-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+AT1-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+AT1-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+AT1-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+AT1-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+AT1-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+AT1-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+AT1-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+AVKISLYH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+AVKISLYH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+AVKISLYH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+AVKISLYH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+AVKISLYH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+AVKISLYH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+AVKISLYH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+AVKISLYH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+AVKISLYH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+AVKISLYH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+AVT-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+AVT-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+AVT-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+AVT-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+AVT-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2553444) 32-Bit Edition
+AVT-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+AVT-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+AVT-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BAHTIN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+BAZA1;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio Viewer 2010
+BAZA1-OKO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio Viewer 2010
+BELOZEROVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+BEZGODOVDN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+BEZGODOVDN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BEZGODOVDN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+BEZGODOVDN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+BITUM-OPERATOR;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+BOBRETSOVVI;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+BOBRETSOVVI;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BOBRETSOVVI;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+BOBRETSOVVI;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+BOBRETSOVVI;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+BOBRETSOVVI;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+BORTSOVGV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+BULIGIN;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+BULIGIN;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+BULIGIN;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BULIGIN;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+BULIGIN;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BULIGIN;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+BULIGIN;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+BULIGIN;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BUZHNYAK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio стандартный 2010
+BUZHNYAK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+BUZHNYAK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BUZHNYAK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+BUZHNYAK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BUZHNYAK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+BUZHNYAK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+BUZHNYAK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BYCHKOVDP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+BYCHKOVDP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+BYCHKOVDP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BYCHKOVDP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+BYKHOVETS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+CEH1-2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+CEH13-2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+CEH13-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Стандартный 2007
+CEH13-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Standard 2007
+CEH13-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Security Update for Microsoft Office Visio 2007 suites (KB2596595) 32-Bit Edition 
+CEH13-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2007 Service Pack 3 (SP3)
+CEH13-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2007
+CEH13-6;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Профессиональный 2007
+CEH13-6;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2007
+CEH13-6;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Security Update for Microsoft Office Visio 2007 suites (KB2596595) 32-Bit Edition 
+CEH13-6;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2007 Service Pack 3 (SP3)
+CEH13-6;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2007
+CEH13-6;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2007 Service Pack 3 (SP3)
+CEH13-HOZ;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+CEH13-HOZ;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+CEH13-HOZ;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+CEH13-HOZ;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+CEH13-HOZ;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+CEH13-HOZ;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+CEH13-HOZ;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+CEH13-HOZ;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+CEH13-SEKR;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+CEH13-ZEM;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+CEH13-ZEM;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+CEH13-ZEM;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+CEH13-ZEM;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+CEH13-ZEM;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+CEH13-ZEM;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+CEH13-ZEM;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+CEH13-ZEM;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+CEH1-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+CEH1-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+CEH1-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2553444) 32-Bit Edition
+CEH1-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+CEH1-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+CEH1-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+CEH1-BDRV-EO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+CEH3-2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+CEH3-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+CEH3-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Профессиональный 2007
+CEH3-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2007
+CEH3-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Security Update for Microsoft Office Visio 2007 suites (KB2596595) 32-Bit Edition 
+CEH3-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2007 Service Pack 3 (SP3)
+CEH3-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2007
+CEH3-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2007 Service Pack 3 (SP3)
+CEH3-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+CEH3-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+CEH3-NACH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+CEH3-NACH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+CEH3-NACH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+CEH5-BOS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio стандартный 2010
+CEH5-BOS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+CEH5-BOS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+CEH5-BOS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+CEH5-BOS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+CEH5-BOS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+CEH5-BOS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+CEH5-BOS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+CHAPLYUK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+CHAPLYUK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+CHEKMAREVANL;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 64-Bit Edition
+CHEKMAREVANL;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 64-Bit Edition
+CHEKMAREVANL;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+CZL1;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+CZL-2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+CZL-2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+DANILINATN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 64-Bit Edition
+DANILINATN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 64-Bit Edition
+DANILINATN;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+DISPUNP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+DISPUNP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+DISPUNP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+DISPUNP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+DISPUNP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;NVIDIA Драйвер 3D Vision 347.25
+DONINSN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;NVIDIA Драйвер 3D Vision 347.52
+DONINSN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;NVIDIA Драйвер контроллера 3D Vision 347.09
+DONINSN;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+DONINSN;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+DORONENKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+DORONENKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+DORONENKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+DORONENKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+DORONENKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+DORONENKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+DORONENKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+DORONENKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+EGOROV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+EGOROV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+EGOROV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2553444) 32-Bit Edition
+EGOROV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+EGOROV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+EGOROV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ELFIMOVAYA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+ELFIMOVAYA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+ELFIMOVAYA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ELFIMOVAYA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+ELFIMOVAYA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ELFIMOVAYA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+ELFIMOVAYA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+ELFIMOVAYA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ESTDISP1;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+FEDOROVMS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+FEDOROVMS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 64-Bit Edition
+FEDOROVMS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 64-Bit Edition
+FEDOROVMS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+FEDOROVMS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 64-Bit Edition
+FEDOROVMS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+FEDOROVMS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+FEDOROVMS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 64-Bit Edition
+FEDOTKINA-NEW;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+FEDOTKINA-NEW;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+FEDOTKINA-NEW;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+FEDOTKINA-NEW;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+FEDOTKINA-NEW;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+FEDOTKINA-NEW;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+FEDOTKINA-NEW;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+FEDOTKINA-NEW;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+FOMINAOS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+FOMINAOS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+FPS94-NACH;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Профессиональный 2007
+FPS94-NACH;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2007
+FPS94-NACH;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Security Update for Microsoft Office Visio 2007 suites (KB2596595) 32-Bit Edition 
+FPS94-NACH;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2007 Service Pack 3 (SP3)
+FPS94-NACH;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2007
+FPS94-NACH;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2007 Service Pack 3 (SP3)
+GARAYS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+GARAYS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+GARAYS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+GARAYS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+GARAYS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+GARAYS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+GARAYS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+GARAYS;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+GASHEVSKY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+GASHEVSKY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+GAVRILOVAVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+GAVRILOVAVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+GAVRILOVAVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio Viewer 2010
+GICHEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+GICHEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+GOLUBEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+GOLUBEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+GUSEVA-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+GUSEVA-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+GUSEVA-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+GUSEVA-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+GUSEVA-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+GUSEVA-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+GUSEVA-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+GUSEVA-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+GUSEVA-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+GUSEVA-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+HVALENKOVAEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+HVALENKOVAEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+HVALENKOVAEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+IVANOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+IVANOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+IVANOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+IVANOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio Viewer 2010
+IVASHKOVICH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Профессиональный 2007
+IVASHKOVICH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2007
+IVASHKOVICH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Security Update for Microsoft Office Visio 2007 suites (KB2596595) 32-Bit Edition 
+IVASHKOVICH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2007 Service Pack 3 (SP3)
+IVASHKOVICH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2007
+IVASHKOVICH;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2007 Service Pack 3 (SP3)
+K-208;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio Viewer 2010
+KALENYUK;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio профессиональный 2010
+KALENYUK;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+KALENYUK;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KALENYUK;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+KALENYUK;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KALENYUK;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+KALENYUK;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+KALENYUK;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KALININATY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+KAZANTSEVMV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+KAZANTSEVMV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+KAZANTSEVMV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KAZANTSEVMV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+KAZANTSEVMV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KAZANTSEVMV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+KAZANTSEVMV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+KAZANTSEVMV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KIRSANOVSV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+KIRSANOVSV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KOGUTNE;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+KOGUTNE;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KOGUT-XP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2553444) 32-Bit Edition
+KOGUT-XP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2810066) 32-Bit Edition
+KORCHAGINA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+KORCHAGINA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KORSAKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+KORSAKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KOVALEVANS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+KOVALEVANS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KOVALEVANS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+KOVALEVANS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+KOVALEVASN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+KOVALEVASN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+KOVALEVASN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KRIVULEVOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+KRIVULEVOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KRIVULEVOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+KUDINOVAGA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+KUDINOVAGA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 64-Bit Edition
+KUDINOVAGA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 64-Bit Edition
+KUDINOVAGA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+KUDINOVAGA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 64-Bit Edition
+KUDINOVAGA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+KUDINOVAGA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+KUDINOVAGA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 64-Bit Edition
+KUDINOVAGA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+KUGAEVSKAYAMV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+KUGAEVSKAYAMV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+KUGAEVSKAYAMV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KULBITSKAYA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;NVIDIA Драйвер 3D Vision 347.52
+KULBITSKAYA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;NVIDIA Драйвер контроллера 3D Vision 347.09
+KULBITSKAYA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+KULBITSKAYA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KURASHEVAAN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+KURASHEVAN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio Viewer 2010
+KURILETSLP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+KURILETSLP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KURITSINA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+KURITSINA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+KURITSINA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KUZNETSOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+KUZNETSOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+KUZNETSOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KUZNETSOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+KUZNETSOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+KUZNETSOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+KUZNETSOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+KUZNETSOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+LAMYGO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+LAMYGO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+LEPEHINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+LEPEHINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+LEPEHINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+LEPEHINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+LEPEHINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+LEPEHINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+LEPEHINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+LEPEHINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+LEVCHUKAM;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+LEVCHUKAM;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+LIMARENKO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+LIMARENKO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+LIMARENKO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+LUBENCHENKOLK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+LUBENCHENKOLK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+MAREEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+MAREEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+MARTINUK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+MARTINUK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+MARTINUK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+MARTYANTSEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+MARTYANTSEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+MATVEEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+MATVEEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+MATVEEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+MEDVEDEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+MEDVEDEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+MEDVEDEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+MEDVEDEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+MEDVEDEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2553444) 32-Bit Edition
+MEDVEDEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+MEDVEDEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+MEDVEDEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+MERZAEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+MERZAEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+MIHLYAEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+MIHLYAEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+MIHLYAEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2553444) 32-Bit Edition
+MIHLYAEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+MIHLYAEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+MIHLYAEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+MINGALEEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+MINGALEEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+MINGALEEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+MINGALEEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+MOLOKANOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+MOLOKANOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+MOLOKANOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+MOLOKOEDOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+MOLOKOEDOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+NAGORSKIYSV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+NEDOSEKOVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+NEDOSEKOVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+NEDOSEKOVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+NEDOSEKOVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+NEDOSEKOVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2553444) 32-Bit Edition
+NEDOSEKOVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+NEDOSEKOVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+NEDOSEKOVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+NIKONOVRA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+NIKONOVRA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+NIKONOVRA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+NOSKOVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+NOSKOVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+NOSKOVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+NOSKOVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+NOVOSELOVALN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+NOVOSELOVALN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+NOVOSELOVALN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+NSHELESTUK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+NSHELESTUK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+NSHELESTUK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio Viewer 2010
+OSIPOVAGG1;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+OTEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+OTN-10;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+OTN-10;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+OTN-10;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+OTN-10;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+OTN-10;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+OTN-10;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+OTN-10;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+OTN-10;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+OTN-10;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+OTN-10;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+OTN-12;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+OTN-12;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+OTN-3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+OTN-4;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+OTN-KOMPAKS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Профессиональный 2007
+OTN-KOMPAKS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2007
+OTN-KOMPAKS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Security Update for Microsoft Office Visio 2007 suites (KB2596595) 32-Bit Edition 
+OTN-KOMPAKS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2007 Service Pack 3 (SP3)
+OTN-KOMPAKS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2007
+OTN-KOMPAKS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2007 Service Pack 3 (SP3)
+OZNOBISHIN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+OZNOBISHIN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+PAVLYUSHIN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+PAVLYUSHIN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+PAVLYUSHINALG;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+PAVLYUSHINALG;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+PDO-1;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+PERFILEVATV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+PERFILEVATV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+PERFILEVATV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+PIKULINAEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+PIKULINAEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+POLYAKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+POLYAKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+POLYAKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio Viewer 2010
+POPOVAEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+POPOVAEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+POPOV-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+POPOV-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+POPOV-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+POPOV-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+PORECHINATI;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+PORECHINATI;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+PROCHKIS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+PROCHKIS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+RAHOVALV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+RAHOVALV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+RECHKINAVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+RECHKINAVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ROCHEVA-TO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+ROCHEVA-TO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ROCHEVA-TO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+ROEVAAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+ROEVAAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ROJOKVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio стандартный 2010
+ROJOKVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+ROJOKVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ROJOKVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+ROJOKVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ROJOKVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+ROJOKVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+ROJOKVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ROJOKVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+ROJOKVV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+RRGIMALETDINOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+RRGIMALETDINOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SAMIGULLINAIV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+SAMIGULLINAIV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SAMIGULLINAIV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SAMIGULLINAIV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+SAMIGULLINAIV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2553444) 32-Bit Edition
+SAMIGULLINAIV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+SAMIGULLINAIV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+SAMIGULLINAIV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SAMOYLOVEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio стандартный 2010
+SAMOYLOVEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SAMOYLOVEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SAMOYLOVEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+SAMOYLOVEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SAMOYLOVEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+SAMOYLOVEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+SAMOYLOVEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SELEZNEVATV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SELEZNEVATV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SELEZNEVATV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+SELEZNEVATV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+SELINA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SELINA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SELINA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+SELINA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+SELINAEI;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SELINAEI;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SHABALINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+SHABALINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SHABALINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SHABALINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+SHABALINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SHABALINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+SHABALINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+SHABALINA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SHEMELOVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SHEMELOVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SHERBAKOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+SHERBAKOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SHERBAKOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SHERBAKOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+SHERBAKOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SHERBAKOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+SHERBAKOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+SHERBAKOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SHITOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;NVIDIA Драйвер 3D Vision 306.97
+SHITOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;NVIDIA Драйвер контроллера 3D Vision 306.97
+SHITOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+SIGOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SIGOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SITNIKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SITNIKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SITNIKOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+SKLAD1;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SKLAD1;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SKLAD2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SKLAD2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SKLAD6;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+SKLAD6;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SKLAD6;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SKLAD6;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+SKLAD6;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SKLAD6;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+SKLAD6;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+SKLAD6;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SKOBLYAKOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+SKOBLYAKOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SKOBLYAKOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SKOBLYAKOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+SKOBLYAKOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SKOBLYAKOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+SKOBLYAKOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+SKOBLYAKOVA;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SOLOVEVRL;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+SOLOVEVRL;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+SOLOVEVRL;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2553444) 32-Bit Edition
+SOLOVEVRL;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+SOLOVEVRL;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+SOLOVEVRL;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SOYKONENIG;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SOYKONENIG;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+STEPANOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio стандартный 2010
+STEPANOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+STEPANOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+STEPANOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+STEPANOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+STEPANOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+STEPANOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+STEPANOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+STEPANOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio Viewer 2010
+STRINADKINN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+STRINADKINN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+STRINADKINN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio Viewer 2010
+SUHODOEVAZV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SUHODOEVAZV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SVASILEVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+SVASILEVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SVASILEVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SVASILEVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+SVASILEVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2553444) 32-Bit Edition
+SVASILEVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+SVASILEVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+SVASILEVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SVASILEVAV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Viewer 2007
+SVETLICHNAYAIP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio стандартный 2010
+SVETLICHNAYAIP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SVETLICHNAYAIP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SVETLICHNAYAIP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+SVETLICHNAYAIP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SVETLICHNAYAIP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+SVETLICHNAYAIP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+SVETLICHNAYAIP;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SVSERGEEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+SVSERGEEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+SVSERGEEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SVSERGEEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+SVSERGEEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SVSERGEEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+SVSERGEEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+SVSERGEEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+SVSERGEEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+SVSERGEEV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+TARASOVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Viewer 2007
+TARASOV-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+TARASOV-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+TARASOV-NEW;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio Viewer 2010
+TAYNIKOVATV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+TAYNIKOVATV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+TIMOFEEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+TIMOFEEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+TITOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+TITOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+TITOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+TITOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+TITOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+TITOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+TITOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+TITOV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+TROFIMOVAN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+TROFIMOVAN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+TROFIMOVAN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+TROFIMOVAN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+TROFIMOVAN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+TROFIMOVAN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+TROFIMOVAN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+TROFIMOVAN;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UDOVENKOSV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio стандартный 2010
+UDOVENKOSV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+UDOVENKOSV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UDOVENKOSV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+UDOVENKOSV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UDOVENKOSV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+UDOVENKOSV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+UDOVENKOSV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UMANSKAYA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+UMANSKAYA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-ARCHIVE;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+UNP-ARCHIVE;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-ARCHIVE;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio Viewer 2010
+UNP-EHD1;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+UNP-EHD1;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-EHD2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+UNP-EHD2;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-EHD3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+UNP-EHD3;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-KUZNETSOVAO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+UNP-KUZNETSOVAO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+UNP-KUZNETSOVAO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-KUZNETSOVAO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+UNP-KUZNETSOVAO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-KUZNETSOVAO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+UNP-KUZNETSOVAO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+UNP-KUZNETSOVAO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-LYAPUNOVAY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+UNP-LYAPUNOVAY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+UNP-LYAPUNOVAY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2553444) 32-Bit Edition
+UNP-LYAPUNOVAY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+UNP-LYAPUNOVAY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+UNP-LYAPUNOVAY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-NOTEBOOK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+UNP-NOTEBOOK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-NOTEBOOK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+UNP-NOTEBOOK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+UNP-NOTEBOOK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio Viewer 2010
+UNP-RPMS;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+UNP-SAFONOVAOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+UNP-SAFONOVAOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-SAVITSKY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio профессиональный 2010
+UNP-SAVITSKY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+UNP-SAVITSKY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-SAVITSKY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+UNP-SAVITSKY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-SAVITSKY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+UNP-SAVITSKY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+UNP-SAVITSKY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-SAVITSKY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+UNP-SAVITSKY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+UNP-SUBBOTINA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+UNP-SUBBOTINA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+UNP-SUBBOTINA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+UNP-SUBBOTINA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2013 (KB2817301) 32-Bit Edition
+USTICH-PKO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+USTICH-PKO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+USTICH-PKO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+USTICH-PKO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+USTICH-PKO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+USTICH-PKO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+USTICH-PKO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+USTICH-PKO;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+VALYAMOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+VALYAMOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+VALYAMOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+VALYAMOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+VALYAMOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2553444) 32-Bit Edition
+VALYAMOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+VALYAMOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+VALYAMOV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+VANGERVI;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+VANGERVI;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+VGSO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+VODOBLOK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+VYALICYNDV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+VYALICYNDV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+VYALICYNDV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+VYALICYNDV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+VYALICYNDV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+VYALICYNDV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+VYALICYNDV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+VYALICYNDV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+VYALICYNDV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+VZADIREY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+VZADIREY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 64-Bit Edition
+VZADIREY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 64-Bit Edition
+VZADIREY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+VZADIREY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 64-Bit Edition
+VZADIREY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+VZADIREY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+VZADIREY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 64-Bit Edition
+YAGAFAROVMG;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+YAGAFAROVMG;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+YAGAFAROVMG;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+YAGAFAROVMG;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+YAGAFAROVMG;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+YAGAFAROVMG;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+YAGAFAROVMG;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+YAGAFAROVMG;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+YAKIMTSEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+YAKIMTSEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+YAKIMTSEVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+YAKIMTSEVAA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+YAKIMTSEVAA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+YAKIMTSEVAA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio Professional 2003
+ZAVADA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio Viewer 2010
+ZBOROVSKIY;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+ZBOROVSKIY;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+ZBOROVSKIY;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ZBOROVSKIY;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+ZBOROVSKIY;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ZBOROVSKIY;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+ZBOROVSKIY;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+ZBOROVSKIY;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ZINCHENKO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio премиум 2010
+ZINCHENKO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+ZINCHENKO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ZINCHENKO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio MUI (Russian) 2010
+ZINCHENKO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2553444) 32-Bit Edition
+ZINCHENKO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Office Visio 2010
+ZINCHENKO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Microsoft Visio 2010 Service Pack 1 (SP1)
+ZINCHENKO;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ZOSHELESTUK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+ZOSHELESTUK;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ZOTIKOVAYV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+ZOTIKOVAYV;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ZOTIKOVVV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision
+ZOTIKOVVV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio Viewer 2010 (KB2837587) 32-Bit Edition
+ZOTIKOVVV;HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Visio 2010 (KB2880526) 32-Bit Edition
+ZPONOMAREVA;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;HydraVision

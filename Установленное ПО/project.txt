@@ -1,0 +1,2 @@
+Режим вывода команд на экран (ECHO) отключен.
+VZADIREY;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Update for Microsoft Project 2013 (KB2956187) 64-Bit Edition
