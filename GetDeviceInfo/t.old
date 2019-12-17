@@ -1,0 +1,763 @@
+=== Создаем C:\TEMP\GetDeviceInfo
+=== версия GetDeviceInfo.exe=1.01a 14.05.2011
+=== рабочий каталог = C:\WORK\GetMonitorInfo\
+=== Информация о принтерах
+=== Принтер Microsoft XPS Document Writer
+=== Attributes=576
+=== Availability=
+=== AvailableJobSheets=
+=== AveragePagesPerMinute=0
+=== Capabilities=2 3 5
+=== CapabilityDescriptions=Color Duplex Collate
+=== Caption=Microsoft XPS Document Writer
+=== CharSetsSupported=
+=== Comment=
+=== ConfigManagerErrorCode=
+=== ConfigManagerUserConfig=
+=== CreationClassName=Win32_Printer
+=== CurrentCapabilities=
+=== CurrentCharSet=
+=== CurrentLanguage=
+=== CurrentMimeType=
+=== CurrentNaturalLanguage=
+=== CurrentPaperType=
+=== Default=FALSE
+=== DefaultCapabilities=
+=== DefaultCopies=
+=== DefaultLanguage=
+=== DefaultMimeType=
+=== DefaultNumberUp=
+=== DefaultPaperType=
+=== DefaultPriority=0
+=== Description=
+=== DetectedErrorState=0
+=== DeviceID=Microsoft XPS Document Writer
+=== Direct=FALSE
+=== DoCompleteFirst=TRUE
+=== DriverName=Microsoft XPS Document Writer
+=== EnableBIDI=FALSE
+=== EnableDevQueryPrint=FALSE
+=== ErrorCleared=
+=== ErrorDescription=
+=== ErrorInformation=
+=== ExtendedDetectedErrorState=0
+=== ExtendedPrinterStatus=2
+=== Hidden=FALSE
+=== HorizontalResolution=600
+=== InstallDate=
+=== JobCountSinceLastReset=0
+=== KeepPrintedJobs=FALSE
+=== LanguagesSupported=
+=== LastErrorCode=
+=== Local=TRUE
+=== Location=
+=== MarkingTechnology=
+=== MaxCopies=
+=== MaxNumberUp=
+=== MaxSizeSupported=
+=== MimeTypesSupported=
+=== Name=Microsoft XPS Document Writer
+=== NaturalLanguagesSupported=
+=== Network=FALSE
+=== PaperSizesSupported=7 1 1 8 1 1 21 22 1 23 54 55 1 1 1 1 7 15 11 1 1 1 4 5 6 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 49 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+=== PaperTypesAvailable=
+=== Parameters=
+=== PNPDeviceID=
+=== PortName=XPSPort:
+=== PowerManagementCapabilities=
+=== PowerManagementSupported=
+=== PrinterPaperNames=Letter Small Таблоид Ledger Legal Statement Executive A3 A4 Малый A4 A5 B4 (JIS) B5 (JIS) Фолио Quarto 10x14 11x17 Бумага для заметок Конверт №9 Конверт №10 Конверт №11 Конверт №12 Конверт №14 Лист формата C Лист формата D Лист формата E Конверт DL Конверт C5 Конверт C3 Конверт C4 Конверт C6 Конверт C65 Конверт B4 Конверт B5 Конверт B6 Конверт Конверт Монарх Конверт 6 3/4 Фальцованная стандартная (США) Фальцованная стандартная (Герма Фальцованная Legal (Германия) B4 (ISO) Японская открытка 9x11 10x11 15x11 Конверт Invite Letter Extra Legal Extra A4 Extra Letter с поворотом A4 с поворотом Letter Extra с поворотом Super A Super B Letter Plus A4 Plus A5 с поворотом B5 (JIS) с поворотом A3 Extra A5 Extra B5 (ISO) Extra A2 A3 с поворотом A3 Extra с поворотом Японская двойная открытка A6 Японский конверт Каку №2 Японский конверт Каку №3 Японский конверт Чоу №3 Японский конверт Чоу №4 Letter (повернуто) A3 (повернуто) A4 (повернуто) A5 (повернуто) B4 (JIS) (повернуто) B5 (JIS) (повернуто) Японская открытка (повернуто) Япон. дв. открытка (повернуто) A6 (повернуто) Япон. конверт Каку №2, повернут Япон. конверт Каку №3, повернут Япон. конверт Чоу №3, повернут Япон. конверт Чоу №4, повернут B6 (JIS) B6 (JIS) (повернуто) 12x11 Япон. конверт Ю №4 Япон. конверт Ю №4, повернут Конверт PRC №1 Конверт PRC №3 Конверт PRC №4 Конверт PRC №5 Конверт PRC №6 Конверт PRC №7 Конверт PRC №8 Конверт PRC №9 Конверт PRC №10 Конверт PRC №1 (повернуто) Конверт PRC №3 (повернуто) Конверт PRC №4 (повернуто) Конверт PRC №5 (повернуто) Конверт PRC №6 (повернуто) Конверт PRC №7 (повернуто) Конверт PRC №8 (повернуто) Конверт PRC №9 (повернуто)
+=== PrinterState=0
+=== PrinterStatus=3
+=== PrintJobDataType=RAW
+=== PrintProcessor=winprint
+=== Priority=1
+=== Published=FALSE
+=== Queued=FALSE
+=== RawOnly=FALSE
+=== SeparatorFile=
+=== ServerName=
+=== Shared=FALSE
+=== ShareName=
+=== SpoolEnabled=TRUE
+=== StartTime=
+=== Status=Unknown
+=== StatusInfo=
+=== SystemCreationClassName=Win32_ComputerSystem
+=== SystemName=PSV
+=== TimeOfLastReset=
+=== UntilTime=
+=== VerticalResolution=600
+=== WorkOffline=FALSE
+-----------------------------------------------
+=== Принтер Fax
+=== Attributes=16448
+=== Availability=
+=== AvailableJobSheets=
+=== AveragePagesPerMinute=0
+=== Capabilities=3
+=== CapabilityDescriptions=Duplex
+=== Caption=Fax
+=== CharSetsSupported=
+=== Comment=
+=== ConfigManagerErrorCode=
+=== ConfigManagerUserConfig=
+=== CreationClassName=Win32_Printer
+=== CurrentCapabilities=
+=== CurrentCharSet=
+=== CurrentLanguage=
+=== CurrentMimeType=
+=== CurrentNaturalLanguage=
+=== CurrentPaperType=
+=== Default=FALSE
+=== DefaultCapabilities=
+=== DefaultCopies=
+=== DefaultLanguage=
+=== DefaultMimeType=
+=== DefaultNumberUp=
+=== DefaultPaperType=
+=== DefaultPriority=0
+=== Description=
+=== DetectedErrorState=0
+=== DeviceID=Fax
+=== Direct=FALSE
+=== DoCompleteFirst=FALSE
+=== DriverName=Microsoft Shared Fax Driver
+=== EnableBIDI=FALSE
+=== EnableDevQueryPrint=FALSE
+=== ErrorCleared=
+=== ErrorDescription=
+=== ErrorInformation=
+=== ExtendedDetectedErrorState=0
+=== ExtendedPrinterStatus=2
+=== Hidden=FALSE
+=== HorizontalResolution=200
+=== InstallDate=
+=== JobCountSinceLastReset=0
+=== KeepPrintedJobs=FALSE
+=== LanguagesSupported=
+=== LastErrorCode=
+=== Local=TRUE
+=== Location=
+=== MarkingTechnology=
+=== MaxCopies=
+=== MaxNumberUp=
+=== MaxSizeSupported=
+=== MimeTypesSupported=
+=== Name=Fax
+=== NaturalLanguagesSupported=
+=== Network=FALSE
+=== PaperSizesSupported=7 8 1 1 22 1 23 55 1 1 7 15 11 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+=== PaperTypesAvailable=
+=== Parameters=
+=== PNPDeviceID=
+=== PortName=SHRFAX:
+=== PowerManagementCapabilities=
+=== PowerManagementSupported=
+=== PrinterPaperNames=Letter Small Legal Statement Executive A4 Малый A4 A5 B5 (JIS) Фолио Quarto Бумага для заметок Конверт №9 Конверт №10 Конверт №11 Конверт №12 Конверт №14 Конверт DL Конверт C5 Конверт C6 Конверт C65 Конверт B5 Конверт B6 Конверт Конверт Монарх Конверт 6 3/4 Фальцованная стандартная (Герма Фальцованная Legal (Германия) Японская открытка Зарезервировано 48 Зарезервировано 49 Letter с поворотом A4 с поворотом Letter Plus A4 Plus A5 с поворотом B5 (JIS) с поворотом A5 Extra B5 (ISO) Extra Японская двойная открытка A6 Японский конверт Каку №3 Японский конверт Чоу №3 Японский конверт Чоу №4 A5 (повернуто) Японская открытка (повернуто) Япон. дв. открытка (повернуто) A6 (повернуто) Япон. конверт Чоу №4, повернут B6 (JIS) B6 (JIS) (повернуто) Япон. конверт Ю №4 PRC 16K PRC 32K PRC 32K (большой) Конверт PRC №1 Конверт PRC №2 Конверт PRC №3 Конверт PRC №4 Конверт PRC №5 Конверт PRC №6 Конверт PRC №7 Конверт PRC №8 PRC 32K (повернуто) PRC 32K (большой, повернуто) Конверт PRC №1 (повернуто) Конверт PRC №2 (повернуто) Конверт PRC №3 (повернуто) Конверт PRC №4 (повернуто) NorthAmerica4x6 NorthAmerica4x8 NorthAmerica5x7 NorthAmerica8x10 JapanLPhoto Japan2LPhoto JapanYou6Envelope CreditCard BusinessCard DiscTrayD
+=== PrinterState=0
+=== PrinterStatus=3
+=== PrintJobDataType=RAW
+=== PrintProcessor=winprint
+=== Priority=1
+=== Published=FALSE
+=== Queued=FALSE
+=== RawOnly=FALSE
+=== SeparatorFile=
+=== ServerName=
+=== Shared=FALSE
+=== ShareName=
+=== SpoolEnabled=TRUE
+=== StartTime=
+=== Status=Unknown
+=== StatusInfo=
+=== SystemCreationClassName=Win32_ComputerSystem
+=== SystemName=PSV
+=== TimeOfLastReset=
+=== UntilTime=
+=== VerticalResolution=200
+=== WorkOffline=FALSE
+-----------------------------------------------
+=== Принтер Canon MP530 Series Printer
+=== Attributes=3660
+=== Availability=
+=== AvailableJobSheets=
+=== AveragePagesPerMinute=0
+=== Capabilities=2 3 5
+=== CapabilityDescriptions=Color Duplex Collate
+=== Caption=Canon MP530 Series Printer
+=== CharSetsSupported=
+=== Comment=
+=== ConfigManagerErrorCode=
+=== ConfigManagerUserConfig=
+=== CreationClassName=Win32_Printer
+=== CurrentCapabilities=
+=== CurrentCharSet=
+=== CurrentLanguage=
+=== CurrentMimeType=
+=== CurrentNaturalLanguage=
+=== CurrentPaperType=
+=== Default=TRUE
+=== DefaultCapabilities=
+=== DefaultCopies=
+=== DefaultLanguage=
+=== DefaultMimeType=
+=== DefaultNumberUp=
+=== DefaultPaperType=
+=== DefaultPriority=0
+=== Description=
+=== DetectedErrorState=0
+=== DeviceID=Canon MP530 Series Printer
+=== Direct=FALSE
+=== DoCompleteFirst=TRUE
+=== DriverName=Canon MP530 Series Printer
+=== EnableBIDI=TRUE
+=== EnableDevQueryPrint=FALSE
+=== ErrorCleared=
+=== ErrorDescription=
+=== ErrorInformation=
+=== ExtendedDetectedErrorState=0
+=== ExtendedPrinterStatus=2
+=== Hidden=FALSE
+=== HorizontalResolution=-3
+=== InstallDate=
+=== JobCountSinceLastReset=0
+=== KeepPrintedJobs=FALSE
+=== LanguagesSupported=
+=== LastErrorCode=
+=== Local=TRUE
+=== Location=
+=== MarkingTechnology=
+=== MaxCopies=
+=== MaxNumberUp=
+=== MaxSizeSupported=
+=== MimeTypesSupported=
+=== Name=Canon MP530 Series Printer
+=== NaturalLanguagesSupported=
+=== Network=FALSE
+=== PaperSizesSupported=8 23 22 55 1 1 1 1 1 1 1 1 11 1 1 1 1 1 1 1 1 1
+=== PaperTypesAvailable=
+=== Parameters=
+=== PNPDeviceID=
+=== PortName=USB002
+=== PowerManagementCapabilities=
+=== PowerManagementSupported=
+=== PrinterPaperNames=Legal A5 A4 B5 10x15 4x6in 101.6x152.4mm 4x8in 101.6x203.2mm 13x18 5x7in 127.0x177.8mm 8x10in 203.2x254.0mm L 89x127mm 2L 127x178mm Hagaki 100x148mm Hagaki 2 200x148mm Станд. конв. №10 Конв. DL Choukei 3 120x235mm Choukei 4 90x205mm Youkei 4 105x235mm Youkei 6 98x190mm Кредитная карточка 2.13x3.39in 5 Карточка 2.16x3.58in 55x91mm Лоток CD-R D Специальный...
+=== PrinterState=0
+=== PrinterStatus=3
+=== PrintJobDataType=RAW
+=== PrintProcessor=Canon MP530 Print Processor
+=== Priority=1
+=== Published=FALSE
+=== Queued=FALSE
+=== RawOnly=FALSE
+=== SeparatorFile=
+=== ServerName=
+=== Shared=TRUE
+=== ShareName=Canon MP530 Series Printer
+=== SpoolEnabled=TRUE
+=== StartTime=
+=== Status=Unknown
+=== StatusInfo=
+=== SystemCreationClassName=Win32_ComputerSystem
+=== SystemName=PSV
+=== TimeOfLastReset=
+=== UntilTime=
+=== VerticalResolution=-3
+=== WorkOffline=TRUE
+-----------------------------------------------
+=== Принтер Canon MP530 FAX
+=== Attributes=7752
+=== Availability=
+=== AvailableJobSheets=
+=== AveragePagesPerMinute=0
+=== Capabilities=
+=== CapabilityDescriptions=
+=== Caption=Canon MP530 FAX
+=== CharSetsSupported=
+=== Comment=
+=== ConfigManagerErrorCode=
+=== ConfigManagerUserConfig=
+=== CreationClassName=Win32_Printer
+=== CurrentCapabilities=
+=== CurrentCharSet=
+=== CurrentLanguage=
+=== CurrentMimeType=
+=== CurrentNaturalLanguage=
+=== CurrentPaperType=
+=== Default=FALSE
+=== DefaultCapabilities=
+=== DefaultCopies=
+=== DefaultLanguage=
+=== DefaultMimeType=
+=== DefaultNumberUp=
+=== DefaultPaperType=
+=== DefaultPriority=0
+=== Description=
+=== DetectedErrorState=0
+=== DeviceID=Canon MP530 FAX
+=== Direct=FALSE
+=== DoCompleteFirst=TRUE
+=== DriverName=Canon MP530 FAX
+=== EnableBIDI=TRUE
+=== EnableDevQueryPrint=FALSE
+=== ErrorCleared=
+=== ErrorDescription=
+=== ErrorInformation=
+=== ExtendedDetectedErrorState=0
+=== ExtendedPrinterStatus=2
+=== Hidden=FALSE
+=== HorizontalResolution=200
+=== InstallDate=
+=== JobCountSinceLastReset=0
+=== KeepPrintedJobs=FALSE
+=== LanguagesSupported=
+=== LastErrorCode=
+=== Local=TRUE
+=== Location=
+=== MarkingTechnology=
+=== MaxCopies=
+=== MaxNumberUp=
+=== MaxSizeSupported=
+=== MimeTypesSupported=
+=== Name=Canon MP530 FAX
+=== NaturalLanguagesSupported=
+=== Network=FALSE
+=== PaperSizesSupported=8 22
+=== PaperTypesAvailable=
+=== Parameters=
+=== PNPDeviceID=
+=== PortName=USB001
+=== PowerManagementCapabilities=
+=== PowerManagementSupported=
+=== PrinterPaperNames=Legal (8,5 x 14 дюймов) A4 (210 x 297 мм)
+=== PrinterState=0
+=== PrinterStatus=3
+=== PrintJobDataType=RAW
+=== PrintProcessor=winprint
+=== Priority=1
+=== Published=FALSE
+=== Queued=FALSE
+=== RawOnly=TRUE
+=== SeparatorFile=
+=== ServerName=
+=== Shared=TRUE
+=== ShareName=Canon MP530 FAX
+=== SpoolEnabled=TRUE
+=== StartTime=
+=== Status=Unknown
+=== StatusInfo=
+=== SystemCreationClassName=Win32_ComputerSystem
+=== SystemName=PSV
+=== TimeOfLastReset=
+=== UntilTime=
+=== VerticalResolution=200
+=== WorkOffline=TRUE
+-----------------------------------------------
+NETBIOS_NAME=PSV
+PRINTER_DEVICE_ID=Microsoft XPS Document Writer
+PRINTER_NAME=Microsoft XPS Document Writer
+PRINTER_SHARE_NAME=
+PRINTER_MANUFACTURER=
+PRINTER_ATTACHED=0
+PRINTER_PRIMARY=0
+PRINTER_LOCAL=1
+PRINTER_ATTRIBUTE=576
+PRINTER_COLOR=1
+PRINTER_DUPLEX=1
+PRINTER_FAX=0
+PRINTER_PORT=XPSPort:
+PRINTER_DESCRIPTION=
+PRINTER_SERIAL_NUMBER=
+PRINTER_HARDWARE_DATE=
+PRINTER_LOCATION=
+PRINTER_ORIENTATION=PORTRAIT
+PRINTER_PAPER_SIZE=9
+PRINTER_PAPER_LENGTH=0
+PRINTER_PAPER_WIDTH=0
+PRINTER_RESOLUTION=600
+PRINTER_UNTIL_TIME=1380
+PRINTER_STATUS=0
+PRINTER_JOBS=0
+PRINTER_AVERAGE=0
+PRINTER_DRIVER=Microsoft XPS Document Writer
+PRINTER_DRIVER_DATE=
+PRINTER_DRIVER_VERSION=1536
+PRINTER_EDID=GetDeviceInfo.exe=1.01a 14.05.2011
+-----------------------------------------------
+NETBIOS_NAME=PSV
+PRINTER_DEVICE_ID=Fax
+PRINTER_NAME=Fax
+PRINTER_SHARE_NAME=
+PRINTER_MANUFACTURER=
+PRINTER_ATTACHED=0
+PRINTER_PRIMARY=0
+PRINTER_LOCAL=1
+PRINTER_ATTRIBUTE=16448
+PRINTER_COLOR=0
+PRINTER_DUPLEX=1
+PRINTER_FAX=1
+PRINTER_PORT=SHRFAX:
+PRINTER_DESCRIPTION=
+PRINTER_SERIAL_NUMBER=
+PRINTER_HARDWARE_DATE=
+PRINTER_LOCATION=
+PRINTER_ORIENTATION=PORTRAIT
+PRINTER_PAPER_SIZE=1
+PRINTER_PAPER_LENGTH=0
+PRINTER_PAPER_WIDTH=0
+PRINTER_RESOLUTION=200
+PRINTER_UNTIL_TIME=0
+PRINTER_STATUS=0
+PRINTER_JOBS=0
+PRINTER_AVERAGE=0
+PRINTER_DRIVER=Microsoft Shared Fax Driver
+PRINTER_DRIVER_DATE=
+PRINTER_DRIVER_VERSION=1024
+PRINTER_EDID=GetDeviceInfo.exe=1.01a 14.05.2011
+-----------------------------------------------
+NETBIOS_NAME=PSV
+PRINTER_DEVICE_ID=Canon MP530 Series Printer
+PRINTER_NAME=Canon MP530 Series Printer
+PRINTER_SHARE_NAME=Canon MP530 Series Printer
+PRINTER_MANUFACTURER=
+PRINTER_ATTACHED=0
+PRINTER_PRIMARY=0
+PRINTER_LOCAL=1
+PRINTER_ATTRIBUTE=3656
+PRINTER_COLOR=1
+PRINTER_DUPLEX=1
+PRINTER_FAX=0
+PRINTER_PORT=USB002
+PRINTER_DESCRIPTION=
+PRINTER_SERIAL_NUMBER=
+PRINTER_HARDWARE_DATE=
+PRINTER_LOCATION=
+PRINTER_ORIENTATION=PORTRAIT
+PRINTER_PAPER_SIZE=9
+PRINTER_PAPER_LENGTH=0
+PRINTER_PAPER_WIDTH=0
+PRINTER_RESOLUTION=0
+PRINTER_UNTIL_TIME=0
+PRINTER_STATUS=0
+PRINTER_JOBS=0
+PRINTER_AVERAGE=0
+PRINTER_DRIVER=Canon MP530 Series Printer
+PRINTER_DRIVER_DATE=
+PRINTER_DRIVER_VERSION=3074
+PRINTER_EDID=GetDeviceInfo.exe=1.01a 14.05.2011
+-----------------------------------------------
+NETBIOS_NAME=PSV
+PRINTER_DEVICE_ID=Canon MP530 FAX
+PRINTER_NAME=Canon MP530 FAX
+PRINTER_SHARE_NAME=Canon MP530 FAX
+PRINTER_MANUFACTURER=
+PRINTER_ATTACHED=0
+PRINTER_PRIMARY=0
+PRINTER_LOCAL=1
+PRINTER_ATTRIBUTE=7752
+PRINTER_COLOR=0
+PRINTER_DUPLEX=0
+PRINTER_FAX=0
+PRINTER_PORT=USB001
+PRINTER_DESCRIPTION=
+PRINTER_SERIAL_NUMBER=
+PRINTER_HARDWARE_DATE=
+PRINTER_LOCATION=
+PRINTER_ORIENTATION=PORTRAIT
+PRINTER_PAPER_SIZE=9
+PRINTER_PAPER_LENGTH=0
+PRINTER_PAPER_WIDTH=0
+PRINTER_RESOLUTION=200
+PRINTER_UNTIL_TIME=0
+PRINTER_STATUS=0
+PRINTER_JOBS=0
+PRINTER_AVERAGE=0
+PRINTER_DRIVER=Canon MP530 FAX
+PRINTER_DRIVER_DATE=
+PRINTER_DRIVER_VERSION=20480
+PRINTER_EDID=GetDeviceInfo.exe=1.01a 14.05.2011
+-----------------------------------------------
+=== Информация о мониторах
+=== Adapter.DeviceName=\\.\DISPLAY1
+=== Monitor.DeviceName=\\.\DISPLAY1\Monitor0
+=== Adapter.DeviceKey=\Registry\Machine\System\CurrentControlSet\Control\Video\{079C82D5-71BD-449F-BC90-0EA85EAB972B}\0000
+=== Открываем реестр с описанием адаптера SYSTEM\CURRENTCONTROLSET\CONTROL\VIDEO\{079C82D5-71BD-449F-BC90-0EA85EAB972B}\0000
+=== Открыт реестр SYSTEM\CURRENTCONTROLSET\CONTROL\VIDEO\{079C82D5-71BD-449F-BC90-0EA85EAB972B}\0000
+=== Keys:
+ATI WDM Configurations
+DAL2_DATA__1_0
+DAL2_DATA__2_0
+Settings
+UMD
+VolatileSettings
+
+=== Adapter.DriverDate=3-8-2011
+=== Monitor.DeviceKey=\Registry\Machine\System\CurrentControlSet\Control\Class\{4d36e96e-e325-11ce-bfc1-08002be10318}\0001
+=== Открываем реестр SYSTEM\CURRENTCONTROLSET\CONTROL\CLASS\{4D36E96E-E325-11CE-BFC1-08002BE10318}\0001
+=== Открыт реестр SYSTEM\CURRENTCONTROLSET\CONTROL\CLASS\{4D36E96E-E325-11CE-BFC1-08002BE10318}\0001
+=== Keys:
+MODES
+
+=== Monitor.DriverDate=6-21-2006
+=== Ищем драйвер {4D36E96E-E325-11CE-BFC1-08002BE10318}\0001 для монитора \\.\DISPLAY1\Monitor0
+=== Открываем реестр System\CurrentControlSet\Enum\DISPLAY
+=== Открыт реестр System\CurrentControlSet\Enum\DISPLAY
+=== Keys:
+VSC131C
+
+=== Открываем реестр System\CurrentControlSet\Enum\DISPLAY\VSC131C
+=== Открыт реестр System\CurrentControlSet\Enum\DISPLAY\VSC131C
+=== Keys:
+5&bbee78b&0&12345678&02&00
+5&bbee78b&0&UID256
+5&bbee78b&0&UID261
+
+=== Открываем реестр System\CurrentControlSet\Enum\DISPLAY\VSC131C\5&bbee78b&0&12345678&02&00
+=== Открыт реестр System\CurrentControlSet\Enum\DISPLAY\VSC131C\5&bbee78b&0&12345678&02&00
+=== Keys:
+Device Parameters
+LogConf
+Properties
+
+=== Открываем реестр System\CurrentControlSet\Enum\DISPLAY\VSC131C\5&bbee78b&0&UID256
+=== Открыт реестр System\CurrentControlSet\Enum\DISPLAY\VSC131C\5&bbee78b&0&UID256
+=== Keys:
+Device Parameters
+LogConf
+Properties
+
+=== Открываем реестр System\CurrentControlSet\Enum\DISPLAY\VSC131C\5&bbee78b&0&UID261
+=== Открыт реестр System\CurrentControlSet\Enum\DISPLAY\VSC131C\5&bbee78b&0&UID261
+=== Keys:
+Device Parameters
+LogConf
+Properties
+Control
+
+=== Драйвер {4D36E96E-E325-11CE-BFC1-08002BE10318}\0001 найден в реестре System\CurrentControlSet\Enum\DISPLAY\VSC131C\5&bbee78b&0&UID261
+=== обнаружен EDID: 
+=== Hex 01 Dec 1	 = Bin 11111111 Hex FF CHR я Dec 255
+=== Hex 02 Dec 2	 = Bin 11111111 Hex FF CHR я Dec 255
+=== Hex 03 Dec 3	 = Bin 11111111 Hex FF CHR я Dec 255
+=== Hex 04 Dec 4	 = Bin 11111111 Hex FF CHR я Dec 255
+=== Hex 05 Dec 5	 = Bin 11111111 Hex FF CHR я Dec 255
+=== Hex 06 Dec 6	 = Bin 11111111 Hex FF CHR я Dec 255
+=== Hex 07 Dec 7	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 08 Dec 8	 = Bin 01011010 Hex 5A CHR Z Dec 90
+=== Hex 09 Dec 9	 = Bin 01100011 Hex 63 CHR c Dec 99
+=== Hex 0A Dec 10	 = Bin 00011100 Hex 1C CHR  Dec 28
+=== Hex 0B Dec 11	 = Bin 00010011 Hex 13 CHR  Dec 19
+=== Hex 0C Dec 12	 = Bin 00000001 Hex 01 CHR  Dec 1
+=== Hex 0D Dec 13	 = Bin 00000001 Hex 01 CHR  Dec 1
+=== Hex 0E Dec 14	 = Bin 00000001 Hex 01 CHR  Dec 1
+=== Hex 0F Dec 15	 = Bin 00000001 Hex 01 CHR  Dec 1
+=== Hex 10 Dec 16	 = Bin 00000010 Hex 02 CHR  Dec 2
+=== Hex 11 Dec 17	 = Bin 00010001 Hex 11 CHR  Dec 17
+=== Hex 12 Dec 18	 = Bin 00000001 Hex 01 CHR  Dec 1
+=== Hex 13 Dec 19	 = Bin 00000011 Hex 03 CHR  Dec 3
+=== Hex 14 Dec 20	 = Bin 10000000 Hex 80 CHR Ђ Dec 128
+=== Hex 15 Dec 21	 = Bin 00101001 Hex 29 CHR ) Dec 41
+=== Hex 16 Dec 22	 = Bin 00011111 Hex 1F CHR  Dec 31
+=== Hex 17 Dec 23	 = Bin 01111000 Hex 78 CHR x Dec 120
+=== Hex 18 Dec 24	 = Bin 00101110 Hex 2E CHR . Dec 46
+=== Hex 19 Dec 25	 = Bin 00110000 Hex 30 CHR 0 Dec 48
+=== Hex 1A Dec 26	 = Bin 10000101 Hex 85 CHR … Dec 133
+=== Hex 1B Dec 27	 = Bin 10100110 Hex A6 CHR ¦ Dec 166
+=== Hex 1C Dec 28	 = Bin 01010110 Hex 56 CHR V Dec 86
+=== Hex 1D Dec 29	 = Bin 01001010 Hex 4A CHR J Dec 74
+=== Hex 1E Dec 30	 = Bin 10011001 Hex 99 CHR ™ Dec 153
+=== Hex 1F Dec 31	 = Bin 00100100 Hex 24 CHR $ Dec 36
+=== Hex 20 Dec 32	 = Bin 00010100 Hex 14 CHR  Dec 20
+=== Hex 21 Dec 33	 = Bin 01010000 Hex 50 CHR P Dec 80
+=== Hex 22 Dec 34	 = Bin 01010100 Hex 54 CHR T Dec 84
+=== Hex 23 Dec 35	 = Bin 10111111 Hex BF CHR ї Dec 191
+=== Hex 24 Dec 36	 = Bin 11101111 Hex EF CHR п Dec 239
+=== Hex 25 Dec 37	 = Bin 10000000 Hex 80 CHR Ђ Dec 128
+=== Hex 26 Dec 38	 = Bin 10101001 Hex A9 CHR © Dec 169
+=== Hex 27 Dec 39	 = Bin 01000000 Hex 40 CHR @ Dec 64
+=== Hex 28 Dec 40	 = Bin 10010000 Hex 90 CHR ђ Dec 144
+=== Hex 29 Dec 41	 = Bin 01001111 Hex 4F CHR O Dec 79
+=== Hex 2A Dec 42	 = Bin 10010000 Hex 90 CHR ђ Dec 144
+=== Hex 2B Dec 43	 = Bin 01000000 Hex 40 CHR @ Dec 64
+=== Hex 2C Dec 44	 = Bin 10000001 Hex 81 CHR Ѓ Dec 129
+=== Hex 2D Dec 45	 = Bin 10000000 Hex 80 CHR Ђ Dec 128
+=== Hex 2E Dec 46	 = Bin 10000001 Hex 81 CHR Ѓ Dec 129
+=== Hex 2F Dec 47	 = Bin 01000000 Hex 40 CHR @ Dec 64
+=== Hex 30 Dec 48	 = Bin 01110001 Hex 71 CHR q Dec 113
+=== Hex 31 Dec 49	 = Bin 01001111 Hex 4F CHR O Dec 79
+=== Hex 32 Dec 50	 = Bin 00110001 Hex 31 CHR 1 Dec 49
+=== Hex 33 Dec 51	 = Bin 00001010 Hex 0A CHR 
+ Dec 10
+=== Hex 34 Dec 52	 = Bin 00000001 Hex 01 CHR  Dec 1
+=== Hex 35 Dec 53	 = Bin 00000001 Hex 01 CHR  Dec 1
+=== Hex 36 Dec 54	 = Bin 01001000 Hex 48 CHR H Dec 72
+=== Hex 37 Dec 55	 = Bin 00111111 Hex 3F CHR ? Dec 63
+=== Hex 38 Dec 56	 = Bin 01000000 Hex 40 CHR @ Dec 64
+=== Hex 39 Dec 57	 = Bin 00110000 Hex 30 CHR 0 Dec 48
+=== Hex 3A Dec 58	 = Bin 01100010 Hex 62 CHR b Dec 98
+=== Hex 3B Dec 59	 = Bin 10110000 Hex B0 CHR ° Dec 176
+=== Hex 3C Dec 60	 = Bin 00110010 Hex 32 CHR 2 Dec 50
+=== Hex 3D Dec 61	 = Bin 01000000 Hex 40 CHR @ Dec 64
+=== Hex 3E Dec 62	 = Bin 01000000 Hex 40 CHR @ Dec 64
+=== Hex 3F Dec 63	 = Bin 11000000 Hex C0 CHR А Dec 192
+=== Hex 40 Dec 64	 = Bin 00010011 Hex 13 CHR  Dec 19
+=== Hex 41 Dec 65	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 42 Dec 66	 = Bin 10011000 Hex 98 CHR  Dec 152
+=== Hex 43 Dec 67	 = Bin 00110010 Hex 32 CHR 2 Dec 50
+=== Hex 44 Dec 68	 = Bin 00010001 Hex 11 CHR  Dec 17
+=== Hex 45 Dec 69	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 46 Dec 70	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 47 Dec 71	 = Bin 00011110 Hex 1E CHR  Dec 30
+=== Hex 48 Dec 72	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 49 Dec 73	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 4A Dec 74	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 4B Dec 75	 = Bin 11111111 Hex FF CHR я Dec 255
+=== Hex 4C Dec 76	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 4D Dec 77	 = Bin 01010000 Hex 50 CHR P Dec 80
+=== Hex 4E Dec 78	 = Bin 01010011 Hex 53 CHR S Dec 83
+=== Hex 4F Dec 79	 = Bin 01000010 Hex 42 CHR B Dec 66
+=== Hex 50 Dec 80	 = Bin 00110000 Hex 30 CHR 0 Dec 48
+=== Hex 51 Dec 81	 = Bin 00110111 Hex 37 CHR 7 Dec 55
+=== Hex 52 Dec 82	 = Bin 00110000 Hex 30 CHR 0 Dec 48
+=== Hex 53 Dec 83	 = Bin 00110010 Hex 32 CHR 2 Dec 50
+=== Hex 54 Dec 84	 = Bin 00110000 Hex 30 CHR 0 Dec 48
+=== Hex 55 Dec 85	 = Bin 00110000 Hex 30 CHR 0 Dec 48
+=== Hex 56 Dec 86	 = Bin 00110100 Hex 34 CHR 4 Dec 52
+=== Hex 57 Dec 87	 = Bin 00110100 Hex 34 CHR 4 Dec 52
+=== Hex 58 Dec 88	 = Bin 00110010 Hex 32 CHR 2 Dec 50
+=== Hex 59 Dec 89	 = Bin 00001010 Hex 0A CHR 
+ Dec 10
+=== Hex 5A Dec 90	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 5B Dec 91	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 5C Dec 92	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 5D Dec 93	 = Bin 11111101 Hex FD CHR э Dec 253
+=== Hex 5E Dec 94	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 5F Dec 95	 = Bin 00110010 Hex 32 CHR 2 Dec 50
+=== Hex 60 Dec 96	 = Bin 01001011 Hex 4B CHR K Dec 75
+=== Hex 61 Dec 97	 = Bin 00011110 Hex 1E CHR  Dec 30
+=== Hex 62 Dec 98	 = Bin 01011100 Hex 5C CHR \ Dec 92
+=== Hex 63 Dec 99	 = Bin 00010001 Hex 11 CHR  Dec 17
+=== Hex 64 Dec 100	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 65 Dec 101	 = Bin 00001010 Hex 0A CHR 
+ Dec 10
+=== Hex 66 Dec 102	 = Bin 00100000 Hex 20 CHR   Dec 32
+=== Hex 67 Dec 103	 = Bin 00100000 Hex 20 CHR   Dec 32
+=== Hex 68 Dec 104	 = Bin 00100000 Hex 20 CHR   Dec 32
+=== Hex 69 Dec 105	 = Bin 00100000 Hex 20 CHR   Dec 32
+=== Hex 6A Dec 106	 = Bin 00100000 Hex 20 CHR   Dec 32
+=== Hex 6B Dec 107	 = Bin 00100000 Hex 20 CHR   Dec 32
+=== Hex 6C Dec 108	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 6D Dec 109	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 6E Dec 110	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 6F Dec 111	 = Bin 11111100 Hex FC CHR ь Dec 252
+=== Hex 70 Dec 112	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 71 Dec 113	 = Bin 01010110 Hex 56 CHR V Dec 86
+=== Hex 72 Dec 114	 = Bin 01010000 Hex 50 CHR P Dec 80
+=== Hex 73 Dec 115	 = Bin 00110010 Hex 32 CHR 2 Dec 50
+=== Hex 74 Dec 116	 = Bin 00110000 Hex 30 CHR 0 Dec 48
+=== Hex 75 Dec 117	 = Bin 00110011 Hex 33 CHR 3 Dec 51
+=== Hex 76 Dec 118	 = Bin 00110000 Hex 30 CHR 0 Dec 48
+=== Hex 77 Dec 119	 = Bin 00100000 Hex 20 CHR   Dec 32
+=== Hex 78 Dec 120	 = Bin 01010011 Hex 53 CHR S Dec 83
+=== Hex 79 Dec 121	 = Bin 01000101 Hex 45 CHR E Dec 69
+=== Hex 7A Dec 122	 = Bin 01010010 Hex 52 CHR R Dec 82
+=== Hex 7B Dec 123	 = Bin 01001001 Hex 49 CHR I Dec 73
+=== Hex 7C Dec 124	 = Bin 01000101 Hex 45 CHR E Dec 69
+=== Hex 7D Dec 125	 = Bin 01010011 Hex 53 CHR S Dec 83
+=== Hex 7E Dec 126	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== Hex 7F Dec 127	 = Bin 01000011 Hex 43 CHR C Dec 67
+=== Hex 80 Dec 128	 = Bin 00000000 Hex 00 CHR   Dec 0
+=== EDID корректный
+=== версия EDID=1.3
+=== PixelClock=162 MHz
+=== Hsm=40
+=== Vsm=30
+=== MAX Hsm=41
+=== MAX Vsm=31
+=== поддерживается разрешение 720 x 400
+=== Максимальное разрешение 720 x 400
+=== поддерживается разрешение 640 x 480
+=== Максимальное разрешение 640 x 480
+=== поддерживается разрешение 640 x 480
+=== Максимальное разрешение 640 x 480
+=== поддерживается разрешение 640 x 480
+=== Максимальное разрешение 640 x 480
+=== поддерживается разрешение 640 x 480
+=== Максимальное разрешение 640 x 480
+=== поддерживается разрешение 800 x 600
+=== Максимальное разрешение 800 x 600
+=== поддерживается разрешение 800 x 600
+=== Максимальное разрешение 800 x 600
+=== поддерживается разрешение 800 x 600
+=== Максимальное разрешение 800 x 600
+=== поддерживается разрешение 800 x 600
+=== Максимальное разрешение 800 x 600
+=== поддерживается разрешение 832 x 624
+=== Максимальное разрешение 832 x 624
+=== поддерживается разрешение 1024 x 768
+=== Максимальное разрешение 1024 x 768
+=== поддерживается разрешение 1024 x 768
+=== Максимальное разрешение 1024 x 768
+=== поддерживается разрешение 1024 x 768
+=== Максимальное разрешение 1024 x 768
+=== поддерживается разрешение 1280 x 1024
+=== Максимальное разрешение 1280 x 1024
+=== поддерживается разрешение 1152 x 870
+=== Максимальное разрешение 1280 x 1024
+=== EDID Timings= 169 64
+=== поддерживается разрешение 1600 x 1200
+=== Максимальное разрешение 1600 x 1200
+=== EDID Timings= 144 79
+=== поддерживается разрешение 1400 x 1050
+=== Максимальное разрешение 1600 x 1200
+=== EDID Timings= 144 64
+=== поддерживается разрешение 1400 x 1050
+=== Максимальное разрешение 1600 x 1200
+=== EDID Timings= 129 128
+=== поддерживается разрешение 1280 x 1024
+=== Максимальное разрешение 1600 x 1200
+=== EDID Timings= 129 64
+=== поддерживается разрешение 1280 x 960
+=== Максимальное разрешение 1600 x 1200
+=== EDID Timings= 113 79
+=== поддерживается разрешение 1152 x 864
+=== Максимальное разрешение 1600 x 1200
+=== EDID Timings= 49 10
+=== поддерживается разрешение 640 x 400
+=== Максимальное разрешение 1600 x 1200
+=== EDID Timings= 1 1
+=== EDID MONITOR NAME=VP2030 SERIES
+=== Adapter.DeviceName=\\.\DISPLAY2
+=== Adapter.DeviceName=\\.\DISPLAY3
+=== Adapter.DeviceName=\\.\DISPLAYV1
+=== MIRRORING DRIVER
+=== Adapter.DeviceName=\\.\DISPLAYV2
+=== MIRRORING DRIVER
+=== Adapter.DeviceName=\\.\DISPLAYV3
+=== MIRRORING DRIVER
+NETBIOS_NAME=PSV
+ADAPTER_DEVICE_ID=PCI\VEN_1002&DEV_6898&SUBSYS_E140174B&REV_00
+ADAPTER_REGISTRY_KEY=SYSTEM\CURRENTCONTROLSET\CONTROL\VIDEO\{079C82D5-71BD-449F-BC90-0EA85EAB972B}\0000
+ADAPTER_NAME=ATI Radeon HD 5800 Series
+ADAPTER_MANUFACTURER=ATI Technologies Inc.
+ADAPTER_ATTACHED=1
+ADAPTER_PRIMARY=1
+ADAPTER_DRIVER_DATE=08.03.2011
+ADAPTER_DRIVER_VERSION=8.831.2.0
+ADAPTER_HARDWARE_VERSION=113-C00140-00S
+ADAPTER_HARDWARE_MEMORY=1024
+MONITOR_DEVICE_ID=MONITOR\VSC131C\{4d36e96e-e325-11ce-bfc1-08002be10318}\0001
+MONITOR_REGISTRY_KEY=SYSTEM\CURRENTCONTROLSET\CONTROL\CLASS\{4D36E96E-E325-11CE-BFC1-08002BE10318}\0001
+MONITOR_NAME=VP2030 SERIES
+MONITOR_MANUFACTURER=VSC
+MONITOR_ATTACHED=1
+MONITOR_PRIMARY=0
+MONITOR_DRIVER_DATE=21.06.2006
+MONITOR_DRIVER_VERSION=6.1.7600.16385
+MONITOR_SERIAL_NUMBER=PSB070200442
+MONITOR_HARDWARE_DATE=08.01.2007
+MONITOR_IMAGE_SIZE=41 sm x 31 sm = 20 inch
+MONITOR_RESOLUTION=1600 x 1200
+MONITOR_EDID=EDID=1.3 GetDeviceInfo.exe=1.01a 14.05.2011
+-----------------------------------------------

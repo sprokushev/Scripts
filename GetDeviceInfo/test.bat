@@ -1,0 +1,1 @@
+\\corp\root\SOURCE\Прокушев\GetMonitorInfo\GetMonitorInfo.exe /test > c:\temp\test.txt

@@ -1,0 +1,546 @@
+A:link {
+	FONT-FAMILY: Arial; COLOR: #0000ff
+}
+A:visited {
+	FONT-FAMILY: Arial; COLOR: #006699
+}
+A:hover {
+	FONT-FAMILY: Arial; COLOR: #cc6633
+}
+A.News {
+	FONT-FAMILY: Arial; COLOR: #ff0000
+}
+A.News:visited {
+	FONT-FAMILY: Arial; COLOR: #ff6600
+}
+A.LNews {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.LNews:visited {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.LNews:hover {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.ExNews:visited {
+	FONT-FAMILY: Arial; COLOR: #996699
+}
+A.ExNews {
+	FONT-FAMILY: Arial; COLOR: #990099
+}
+A.Brown {
+	FONT-FAMILY: Arial; COLOR: #996600; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.Brown:visited {
+	FONT-FAMILY: Arial; COLOR: #996600; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.LeftMenu {
+	FONT-FAMILY: Arial; COLOR: #336699; TEXT-DECORATION: none
+}
+A.LeftMenu:visited {
+	FONT-FAMILY: Arial; COLOR: #336699; TEXT-DECORATION: none
+}
+A.MenuMark {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.MenuMark:visited {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.SmallMenuMark {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.SmallMenuMark:hover {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-SIZE: 80%
+}
+A.SmallMenuMark:visited {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.Small {
+	FONT-FAMILY: Arial; COLOR: #ff4500; FONT-SIZE: 80%
+}
+A.Small:visited {
+	FONT-FAMILY: Arial; COLOR: #ff4500; FONT-SIZE: 80%
+}
+A.Small:hover {
+	FONT-FAMILY: Arial; COLOR: #ff4500; FONT-SIZE: 80%
+}
+A.SmallGray {
+	FONT-FAMILY: Arial; COLOR: #666666; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.SmallGray:visited {
+	FONT-FAMILY: Arial; COLOR: #999999; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.SmallGray:hover {
+	FONT-FAMILY: Arial; COLOR: #ff4500; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.SmallBrown {
+	FONT-FAMILY: Arial; COLOR: #996600; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.SmallBrown:visited {
+	FONT-FAMILY: Arial; COLOR: #996600; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.SmallBrown:hover {
+	FONT-FAMILY: Arial; COLOR: #ff4500; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.SmallBlue {
+	FONT-FAMILY: Arial; COLOR: #009999; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.SmallBlue:visited {
+	FONT-FAMILY: Arial; COLOR: #9999cc; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.SmallBlue:hover {
+	FONT-FAMILY: Arial; COLOR: #ff4500; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.Articles {
+	FONT-FAMILY: Arial; COLOR: #996600; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.Articles:visited {
+	FONT-FAMILY: Arial; COLOR: #996600; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.Articles:hover {
+	FONT-FAMILY: Arial; COLOR: #ff4500; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.Question {
+	FONT-FAMILY: Arial; COLOR: #b22222; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.Question:visited {
+	FONT-FAMILY: Arial; COLOR: #b22222; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.Question:hover {
+	FONT-FAMILY: Arial; COLOR: #ff4500; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+A.Bold {
+	FONT-FAMILY: Arial; FONT-WEIGHT: bold
+}
+A.Bold:visited {
+	FONT-FAMILY: Arial; FONT-WEIGHT: bold
+}
+A.Bold:hover {
+	FONT-FAMILY: Arial; FONT-WEIGHT: bold
+}
+A.Gray {
+	FONT-FAMILY: Arial; COLOR: #666666; TEXT-DECORATION: none
+}
+A.Sand {
+	FONT-FAMILY: Courier; COLOR: #666666; TEXT-DECORATION: none
+}
+A.Gray:visited {
+	FONT-FAMILY: Arial; COLOR: #999999; TEXT-DECORATION: none
+}
+A.Gray:hover {
+	FONT-FAMILY: Arial; COLOR: #ff4500; TEXT-DECORATION: none
+}
+A.RSS {
+	BACKGROUND-COLOR: #ff6600; FONT-FAMILY: Arial; COLOR: #ffffff; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+BODY {
+	MARGIN: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 80%
+}
+BODY.Main {
+	TEXT-ALIGN: justify; BACKGROUND-COLOR: #ffffff; MARGIN: 0px; COLOR: #000000; FONT-SIZE: 80%
+}
+CAPTION {
+	FONT-FAMILY: Arial; FONT-SIZE: 80%; FONT-WEIGHT: bold
+}
+TABLE.FULL {
+	BACKGROUND-COLOR: #ffffff; WIDTH: 100%
+}
+TD.GrayRight {
+	TEXT-ALIGN: right; BACKGROUND-COLOR: #dddddd; FONT-SIZE: 80%
+}
+TH {
+	FONT-FAMILY: Arial; FONT-SIZE: 80%
+}
+TD {
+	FONT-FAMILY: Arial; FONT-SIZE: 80%
+}
+TD.Just {
+	TEXT-ALIGN: justify; FONT-FAMILY: Arial; FONT-SIZE: 80%
+}
+TD.Text {
+	FONT-SIZE: 80%
+}
+.CodeRamka {
+	BORDER-BOTTOM: #999999 1px solid; BORDER-LEFT: #999999 1px solid; PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #f5f5f5; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; FONT-FAMILY: Courier New, Courier; BORDER-TOP: #999999 1px solid; BORDER-RIGHT: #999999 1px solid; PADDING-TOP: 4px
+}
+.Answers {
+	FONT-FAMILY: Courier New, Courier; FONT-SIZE: 90%
+}
+TD.LeftCarrots {
+	COLOR: #000000; FONT-SIZE: 80%
+}
+TD.Blue {
+	FONT-FAMILY: Arial; COLOR: #000099; FONT-SIZE: 80%
+}
+TD.NEW {
+	FONT-STYLE: italic; COLOR: #ff0000; FONT-SIZE: 80%
+}
+TD.SmallGray {
+	COLOR: #999999; FONT-SIZE: 70%
+}
+TABLE.Carrots {
+	BACKGROUND-COLOR: #ffcc99; FONT-FAMILY: Arial; FONT-SIZE: 80%
+}
+TD.Carrots {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #ffcc99; FONT-FAMILY: Arial; COLOR: #000000; FONT-SIZE: 80%
+}
+TD.MT_Title {
+	TEXT-ALIGN: center; BACKGROUND: #cccccc; COLOR: #000000; FONT-SIZE: 80%; FONT-WEIGHT: bold
+}
+TD.MT_CurTitle {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #faebd7; COLOR: #996600; FONT-SIZE: 80%; FONT-WEIGHT: bold
+}
+TR.MT_Title {
+	TEXT-ALIGN: center; BACKGROUND: #cccccc; COLOR: #000000; FONT-WEIGHT: bold
+}
+TR.MT_CurTitle {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #faebd7; COLOR: #996600; FONT-WEIGHT: bold
+}
+TD.MT_CurBGColor {
+	TEXT-ALIGN: left; BACKGROUND-COLOR: #fffaf0; COLOR: #000000; FONT-SIZE: 80%
+}
+TR.MT_CurBGColor {
+	BACKGROUND-COLOR: #fffaf0
+}
+TD.MTA_CurTitle {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #f0e68c; COLOR: #996600; FONT-SIZE: 80%; FONT-WEIGHT: bold
+}
+TD.MTA_CurBGColor {
+	TEXT-ALIGN: left; BACKGROUND-COLOR: #f5f5dc; COLOR: #000000; FONT-SIZE: 80%
+}
+TR.MTA_CurBGColor {
+	BACKGROUND-COLOR: #f5f5dc
+}
+TR.MTR_BGColor {
+	TEXT-ALIGN: center; BACKGROUND: #efefef; COLOR: #000000
+}
+TD.MT_BGColor {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #efefef; COLOR: #000000; FONT-SIZE: 80%
+}
+TD.Calendar {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #ffffff; COLOR: #999999
+}
+TD.CalendarHit {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #ffffff; COLOR: #ff0000; FONT-WEIGHT: bold
+}
+TR.Bold {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #ffffff; COLOR: #000000; FONT-SIZE: 80%; FONT-WEIGHT: bold
+}
+TR.RedBold {
+	BACKGROUND-COLOR: #ff8c00; COLOR: #000000; FONT-WEIGHT: bold
+}
+TD.Bold {
+	BACKGROUND-COLOR: #ffffff; COLOR: #000000; FONT-SIZE: 80%; FONT-WEIGHT: bold
+}
+TD.CarrotBold {
+	BACKGROUND-COLOR: #faebd7; COLOR: #000000; FONT-SIZE: 80%; FONT-WEIGHT: bold
+}
+TR.GrayBG {
+	BACKGROUND-COLOR: #eaeaea; COLOR: #000000
+}
+TR.WhiteBG {
+	BACKGROUND-COLOR: #ffffff; COLOR: #000000
+}
+TR.SmallGrayBG {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #eaeaea; COLOR: #000000; FONT-SIZE: 80%
+}
+TR.MT_BGColor {
+	BACKGROUND-COLOR: #999999
+}
+TR.MT_LightLine {
+	BACKGROUND-COLOR: #dddddd
+}
+P.Book {
+	TEXT-ALIGN: justify; TEXT-INDENT: 1.5em; FONT-FAMILY: Arial; FONT-SIZE: 100%
+}
+P.Script {
+	TEXT-ALIGN: right; FONT-FAMILY: Arial; FONT-SIZE: 100%
+}
+P.Epigraph {
+	TEXT-ALIGN: right; FONT-STYLE: italic; FONT-FAMILY: Arial; FONT-SIZE: 100%
+}
+P.Times {
+	FONT-FAMILY: Times New Roman
+}
+P.Citata {
+	TEXT-ALIGN: right; FONT-STYLE: italic; FONT-SIZE: 80%
+}
+P.Blue {
+	COLOR: #000099; FONT-SIZE: 100%
+}
+DIV.MakeUp {
+	TEXT-ALIGN: right; FONT-FAMILY: Arial; COLOR: #666666; FONT-SIZE: 100%
+}
+DIV.Book {
+	TEXT-ALIGN: justify; TEXT-INDENT: 1.5em; FONT-FAMILY: Arial; FONT-SIZE: 100%
+}
+DIV.CODE {
+	TEXT-ALIGN: justify; FONT-FAMILY: monospace; FONT-SIZE: 100%
+}
+FONT.Normal {
+	FONT-FAMILY: Arial; COLOR: #000000; FONT-SIZE: 100%
+}
+.Dark {
+	FONT-FAMILY: Arial; COLOR: #996600; FONT-SIZE: 80%
+}
+FONT.Brown {
+	FONT-FAMILY: Arial; COLOR: #996600; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+.Error {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+.BigError {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-SIZE: 150%; FONT-WEIGHT: bold
+}
+FONT.Important {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.GrayBold {
+	FONT-FAMILY: Arial; COLOR: #999999; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.TradeMark {
+	COLOR: #666666; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.Marked {
+	FONT-FAMILY: Arial; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.LightAtention {
+	BACKGROUND-COLOR: #faebd7; FONT-FAMILY: Arial; COLOR: #996600; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.Atention {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.Level_1 {
+	FONT-FAMILY: Arial; COLOR: #996600; FONT-SIZE: 100%
+}
+FONT.Level_2 {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.Level_3 {
+	FONT-FAMILY: Arial; COLOR: #9999cc; FONT-SIZE: 100%
+}
+FONT.Level_4 {
+	FONT-FAMILY: Arial; COLOR: #a52a2a; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.LevelSmall_1 {
+	FONT-FAMILY: Arial; COLOR: #996600; FONT-SIZE: 80%
+}
+FONT.LevelSmall_2 {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-SIZE: 80%
+}
+FONT.LevelSmall_3 {
+	FONT-FAMILY: Arial; COLOR: #9999cc; FONT-SIZE: 80%
+}
+FONT.LevelSmall_4 {
+	FONT-FAMILY: Arial; COLOR: #a52a2a; FONT-SIZE: 80%
+}
+FONT.Author {
+	FONT-FAMILY: Arial; COLOR: #999999; FONT-SIZE: 80%
+}
+FONT.QwTitle {
+	FONT-FAMILY: Arial; COLOR: #999900; FONT-SIZE: 80%
+}
+FONT.BrownLink {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #996600; FONT-SIZE: 100%; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.Header {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #996600; FONT-SIZE: 18px; WORD-BREAK: keep-all; FONT-WEIGHT: bold
+}
+.RedHeader {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #ff4500; FONT-SIZE: 18px; WORD-BREAK: keep-all; FONT-WEIGHT: bold
+}
+.SubHeader {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #996600; WORD-BREAK: keep-all; FONT-WEIGHT: bold
+}
+FONT.CurItem {
+	BACKGROUND-COLOR: #d2691e; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #ffe4c4; FONT-SIZE: 100%; WORD-BREAK: keep-all; FONT-WEIGHT: bold
+}
+FONT.CurTopic {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #c0c0c0; WORD-BREAK: keep-all
+}
+FONT.Orfo {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-SIZE: 80%
+}
+FONT.sKeyword {
+	BACKGROUND-COLOR: #ff9900; FONT-FAMILY: Arial; COLOR: #ffffff; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.qwBlock {
+	BACKGROUND-COLOR: #ffff00; FONT-FAMILY: Arial; COLOR: #8b4513; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.Closed {
+	BACKGROUND-COLOR: #000000; FONT-FAMILY: Arial; COLOR: #ffff00; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.Input {
+	BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Arial; COLOR: #8b4513; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.sInfo {
+	FONT-FAMILY: Arial; COLOR: #0000ff; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.Active {
+	FONT-FAMILY: Arial; COLOR: #ff0000; FONT-SIZE: 80%
+}
+FONT.NonActive {
+	FONT-FAMILY: Arial; COLOR: #999999; FONT-SIZE: 80%
+}
+FONT.Ellipse {
+	FONT-FAMILY: Arial; COLOR: #cc0066; FONT-SIZE: 80%
+}
+FONT.LGray {
+	FONT-STYLE: italic; FONT-FAMILY: Arial; COLOR: #000; FONT-SIZE: 100%
+}
+FONT.CNote {
+	FONT-STYLE: italic; FONT-FAMILY: Arial; COLOR: #999999; FONT-SIZE: 100%
+}
+FONT.CImportant {
+	FONT-FAMILY: Arial; COLOR: #dc143c; FONT-SIZE: 100%
+}
+FONT.SmallLGray {
+	FONT-STYLE: italic; FONT-FAMILY: Arial; COLOR: #333; FONT-SIZE: 80%
+}
+.SmallGray {
+	FONT-FAMILY: Arial; COLOR: #999999; FONT-SIZE: 80%
+}
+.Small {
+	FONT-FAMILY: Arial; FONT-SIZE: 80%
+}
+.Bold {
+	FONT-WEIGHT: bold
+}
+.BookCitata {
+	BACKGROUND-COLOR: #f5f5dc; FONT-STYLE: italic
+}
+.News {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #ff0000; FONT-SIZE: 100%; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.InterQ {
+	FONT-STYLE: italic; COLOR: #996600; FONT-SIZE: 100%
+}
+.InterA {
+	COLOR: #000000; FONT-SIZE: 100%
+}
+FONT.SmallGray {
+	FONT-FAMILY: Arial; COLOR: #000; FONT-SIZE: 80%
+}
+FONT.Small {
+	FONT-FAMILY: Arial; FONT-SIZE: 80%
+}
+FONT.SmallInfo {
+	FONT-STYLE: italic; FONT-FAMILY: Arial; COLOR: #000000; FONT-SIZE: 80%
+}
+.CodeNumber {
+	COLOR: #b22222; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+.CodeAsm {
+	COLOR: #008080; FONT-SIZE: 100%
+}
+.CodeString {
+	COLOR: #996600; FONT-SIZE: 100%
+}
+.CodeRemark {
+	FONT-STYLE: italic; COLOR: #0000ff; FONT-SIZE: 100%
+}
+.CodeKey {
+	FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.Key {
+	COLOR: #0000ff; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.Comment {
+	FONT-STYLE: italic; COLOR: #008080; FONT-SIZE: 100%
+}
+FONT.String {
+	COLOR: #ff0000; FONT-SIZE: 100%
+}
+FONT.DataType {
+	COLOR: #a52a2a; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+FONT.Func {
+	COLOR: #ff1493; FONT-SIZE: 100%
+}
+FONT.InterQ {
+	FONT-STYLE: italic; COLOR: #996600; FONT-SIZE: 100%
+}
+FONT.InterA {
+	COLOR: #000000; FONT-SIZE: 100%
+}
+FONT.CodeInstr {
+	COLOR: #000099; FONT-SIZE: 100%
+}
+FONT.Quoted1 {
+	BACKGROUND-COLOR: #fff8dc; COLOR: #666666; FONT-SIZE: 100%
+}
+FONT.Quoted {
+	FONT-STYLE: italic; COLOR: #996600; FONT-SIZE: 100%
+}
+FONT.Symbol {
+	FONT-FAMILY: "Symbol"
+}
+PRE {
+	BACKGROUND-COLOR: #eeeeee; COLOR: #000000; FONT-SIZE: 110%
+}
+PRE.Ramka {
+	BORDER-BOTTOM: #999999 1px solid; BORDER-LEFT: #999999 1px solid; PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #eeeeee; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #000000; FONT-SIZE: 110%; BORDER-TOP: #999999 1px solid; BORDER-RIGHT: #999999 1px solid; PADDING-TOP: 5px
+}
+PRE.Liric {
+	BACKGROUND-COLOR: #ffffff; COLOR: #996600
+}
+PRE.Classic {
+	BACKGROUND-COLOR: #000066; COLOR: #ffff00
+}
+TT {
+	FONT-SIZE: 120%
+}
+CODE {
+	FONT-SIZE: 120%
+}
+CODE.Forum {
+	FONT-SIZE: 120%
+}
+CODE.MAIL {
+	COLOR: #008b8b; FONT-SIZE: 120%
+}
+LI.Normal {
+	BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Arial; COLOR: #000000
+}
+LI.Marked {
+	BACKGROUND-COLOR: #faebd7; COLOR: #000000; FONT-WEIGHT: bold
+}
+DD {
+	TEXT-ALIGN: justify; FONT-FAMILY: Arial; FONT-SIZE: 100%
+}
+UL {
+	FONT-FAMILY: Arial; FONT-SIZE: 100%
+}
+OL {
+	FONT-SIZE: 100%
+}
+HR {
+	BACKGROUND: #999999; HEIGHT: 1px; COLOR: #999999; BORDER-TOP: #999999 1px solid
+}
+HR.RED {
+	BACKGROUND: #cd853f; HEIGHT: 1px; COLOR: #cd853f; BORDER-TOP: #cd853f 1px solid; size: 1
+}
+BLOCKQUOTE.Cyt {
+	FONT-STYLE: italic; BACKGROUND: #f5f5dc
+}
+.TextBL {
+	TEXT-ALIGN: justify; FONT-FAMILY: monospace; BACKGROUND: #000000; COLOR: #fffacd; FONT-SIZE: 120%
+}
+.TextLastBL {
+	TEXT-ALIGN: justify; FONT-FAMILY: monospace; BACKGROUND: #c0c0c0; COLOR: #8b0000; FONT-SIZE: 120%
+}
+BLOCKQUOTE.qwText {
+	TEXT-ALIGN: justify; FONT-FAMILY: monospace; BACKGROUND: #f5f5dc; FONT-SIZE: 120%
+}
+BLOCKQUOTE.WinOpinions {
+	TEXT-ALIGN: justify; FONT-STYLE: italic; BACKGROUND: #fffff0; COLOR: #666666
+}
+BLOCKQUOTE.Letter {
+	TEXT-ALIGN: justify; FONT-FAMILY: monospace; BACKGROUND: #ffffff; COLOR: #666666; FONT-SIZE: 120%
+}
+.dead {
+	BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; PADDING-TOP: 2px
+}
+TD.club H1 {
+	PADDING-LEFT: 120em; COLOR: #999; FONT-SIZE: 70%; FONT-WEIGHT: bold
+}

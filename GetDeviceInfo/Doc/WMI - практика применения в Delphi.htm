@@ -1,0 +1,1550 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0059)http://www.delphikingdom.com/asp/viewitem.asp -->
+<HTML><HEAD><TITLE>WMI - практика применения в Delphi</TITLE>
+<META name=AUTHOR content="Elena Philippova">
+<META name=GENERATOR content="MSHTML 9.00.8112.16421">
+<META name=webmoney.attestation.label 
+content="webmoney attestation label#805D4D54-3E81-4704-AC51-440F6E1C917E">
+<META name=keywords 
+content="delphi, programmer, programm ,programming, club, delphi,  дельфи, программист ,программирование ,программа, виртуальный, клуб, дельфи, советы, компоненты, взаимопомощь, дельфи, delphi">
+<META name=description 
+content="Delphi Programmer Club.  Виртуальный клуб программистов на Дельфи.">
+<META content="TEXT/HTML; CHARSET=UTF-8" http-equiv=CONTENT-TYPE><LINK 
+rel=STYLESHEET type=text/css 
+href="WMI%20-%20практика%20применения%20в%20Delphi_files/delphi.css"><LINK 
+rel="shortcut icon" type=image/x-icon href="../favicon.ico"><LINK rel=start 
+href="/"><LINK rel=about href="../team/about.asp"><LINK rel=author 
+href="../team/about.asp"><LINK rel=help href="../help"><LINK rel=search 
+href="../about_search.asp"><LINK title="Королевский cыск (вопросы)" rel=search 
+type=application/opensearchdescription+xml 
+href="/xml/opensearch-table-q.xml"><LINK title="Королевский cыск (ответы)" 
+rel=search type=application/opensearchdescription+xml 
+href="/xml/opensearch-table-a.xml"><LINK 
+title="Отслеживать новости сервера по RSS" rel=alternate 
+type=application/rss+xml href="/asp/rss.asp?mode=news"></HEAD>
+<BODY class=Main leftMargin=0 rightMargin=0 topMargin=0 bgColor=#ffffff 
+MARGINWIDTH="0" MARGINHEIGHT="0"><A name=PageTop></A><!--LiveInternet counter-->
+<SCRIPT language=JavaScript><!--
+
+document.write('<img src="http://counter.yadro.ru/hit?r'+
+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+
+';i'+escape('Ææ'+document.title.substring(0,80))+';'+Math.random()+
+
+'" width=1 height=1 alt="">')//--></SCRIPT>
+<!--/LiveInternet--><!--begin of Top100--><A 
+href="http://top100.rambler.ru/top100/"><IMG border=0 alt="Rambler's Top100" 
+src="WMI%20-%20практика%20применения%20в%20Delphi_files/top100.gif" width=1 
+height=1></A> <!--end of Top100 code-->
+<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=left><A 
+      href="http://www.delphikingdom.com/index.asp"><IMG border=0 
+      src="WMI%20-%20практика%20применения%20в%20Delphi_files/common.gif" 
+      width=260 height=70></A></TD>
+    <TD vAlign=top align=right><FONT color=#666666><EM>"Knowledge itself is 
+      power"</EM><BR>F.Bacon</FONT></TD></TR>
+  <TR>
+    <TD vAlign=bottom colSpan=2 align=right><A class=MenuMark 
+      href="http://www.delphikingdom.com/about_search.asp">Поиск</A> | <A 
+      href="http://www.delphikingdom.com/map.asp">Карта сайта</A> | <A 
+      class=MenuMark href="http://www.delphikingdom.com/help/">Помощь</A> | <A 
+      href="http://www.delphikingdom.com/team/about.asp">О проекте</A> | <A 
+      href="http://www.delphikingdom.com/asp/tth.asp">ТТХ</A>&nbsp;&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+  <TBODY>
+  <TR class=MT_BGColor>
+    <TD background=WMI%20-%20практика%20применения%20в%20Delphi_files/back.gif 
+    width=10><IMG 
+      src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+      width=20 height=1></TD>
+    <TD colSpan=5><IMG 
+      src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+      height=1></TD></TR>
+  <TR ROWSPAN="2">
+    <TD background=WMI%20-%20практика%20применения%20в%20Delphi_files/back.gif 
+    width=10><IMG 
+      src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+      width=20></TD>
+    <TD bgColor=#999999 width=1><IMG 
+      src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+    width=1></TD>
+    <TD class=MT_BGColor vAlign=top width=150 align=left>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width=150>
+        <TBODY>
+        <TR height=1>
+          <TD class=MT_BGColor><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR>
+          <TD class=MT_CurTitle colSpan=3>&nbsp;Подземелье Магов</TD></TR>
+        <TR class=MT_CurBGColor>
+          <TD class=MT_CurBGColor>&nbsp;</TD>
+          <TD class=MT_CurBGColor>&nbsp;<BR>&nbsp;<BR><BR><A 
+            href="http://www.delphikingdom.com/asp/section.asp?id=2">Фильтр по 
+            датам</A><BR><BR></TD>
+          <TD class=MT_CurBGColor>&nbsp;</TD></TR>
+        <TR>
+          <TD class=MT_Title colSpan=3>&nbsp;К н и г и</TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD align=center><BR><A 
+            href="http://www.delphikingdom.com/asp/foliant.asp">Книжная 
+          полка</A></TD>
+          <TD>&nbsp;</TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD align=center><BR><A 
+            href="http://www.delphikingdom.com/library">Библиотека</A></TD>
+          <TD>&nbsp;</TD></TR>
+        <TR>
+          <TD width="5%"></TD>
+          <TD>&nbsp;</TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD class=MT_BGColor><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;<BR>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width=75 bgColor=#999999 
+            align=center>
+              <TBODY>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=1 cellPadding=3 width="100%">
+                    <TBODY>
+                    <TR bgColor=#ffffff>
+                      <TD><A class=SmallGray 
+                        href="http://www.delphikingdom.com/asp/book.asp?BookID=270"><IMG 
+                        border=0 alt="" 
+                        src="WMI%20-%20практика%20применения%20в%20Delphi_files/book_270.gif" 
+                        width=75 
+              height=108></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+            <DIV align=center><A class=SmallGray 
+            href="http://www.delphikingdom.com/asp/book.asp?BookID=270">О чем не 
+            пишут в книгах по Delphi</A></DIV></TD>
+          <TD>&nbsp;</TD></TR>
+        <TR>
+          <TD colSpan=3><BR><BR></TD></TR>
+        <TR>
+          <TD class=MT_Title colSpan=3>Поиск</TD></TR>
+        <TR>
+          <TD width="5%"></TD>
+          <TD>&nbsp;<BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/table/search.asp">Поиск по КС 
+            </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/search.asp">Поиск в статьях 
+            </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/isearch.asp">Яndex© + Google© 
+            </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/foliant/searchbooks.asp">Поиск 
+            книг</A><BR><BR></TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD class=MT_BGColor><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;<BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/nets.asp">Тематический 
+            каталог </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/allarticles.asp">Все 
+            манускрипты </A><BR><BR></TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD class=MT_BGColor><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;<BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/vcllist.asp">Карта VCL 
+            </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/listerrors.asp">ОШИБКИ 
+            </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/messages.asp">Сообщения 
+            системы </A><BR><BR></TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR>
+          <TD class=MT_Title colSpan=3>Форумы</TD></TR>
+        <TR>
+          <TD width="5%"></TD>
+          <TD>&nbsp;<BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/table">Круглый стол </A><BR><A 
+            class=MenuMark 
+            href="http://www.delphikingdom.com/asp/rtfilter.asp?typep=2&amp;numtop=50&amp;TypeQ=0&amp;send=on">Новые 
+            вопросы </A><BR><BR></TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD class=MT_BGColor><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;<BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/talk.asp">Базарная площадь 
+            </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/notice">Городская площадь 
+            </A><BR><BR></TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD class=MT_BGColor><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;<BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/sls.asp">С Л С 
+</A><BR><BR></TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR>
+          <TD class=MT_Title colSpan=3>Летопись</TD></TR>
+        <TR>
+          <TD width="5%"></TD>
+          <TD>&nbsp;<BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/section.asp?id=23">Королевские 
+            Хроники </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/userlist.asp">Рыцарский 
+            Зал</A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/voting">Глас народа! 
+          </A><BR><BR></TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD class=MT_BGColor><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;<BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/tth.asp">ТТХ </A><BR><A 
+            class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/winners.asp">Конкурсы 
+            </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/cranberry">Королевская клюква 
+            </A><BR><BR></TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR>
+          <TD class=MT_Title colSpan=3>Разделы</TD></TR>
+        <TR>
+          <TD width="5%"></TD>
+          <TD>&nbsp;<BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/section.asp?id=16">Hello, 
+            World! </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/lyceum">Лицей </A><BR><BR><A 
+            class=MenuMark 
+            href="http://www.delphikingdom.com/quintana">Квинтана</A><BR><BR></TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD class=MT_BGColor><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;<BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/section.asp?id=1">Сокровищница 
+            </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/section.asp?id=2">Подземелье 
+            Магов </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/stones">Подводные камни 
+            </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/section.asp?id=6">Свитки 
+            </A><BR><BR></TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD class=MT_BGColor><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;<BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/oberon">Школа ОБЕРОНА 
+          </A><BR><BR></TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD class=MT_BGColor><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1> </TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;<BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/tower">Арсенальная башня 
+            </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/foliant">Фолианты </A><BR><A 
+            class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/section.asp?id=21">Полигон 
+            </A><BR><BR></TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD class=MT_BGColor><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;<BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/asp/sand.asp">Книга Песка 
+            </A><BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/land.htm">Дальние земли 
+            </A><BR><BR></TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD class=MT_BGColor><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;<BR><A class=LeftMenu 
+            href="http://www.delphikingdom.com/offline">АРХИВЫ </A><BR><BR></TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR>
+          <TD class=MT_Title colSpan=3>&nbsp;<IMG title="" border=0 alt="" 
+            align=absMiddle 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/team.gif" 
+            width=17 height=17></TD></TR>
+        <TR class=SmallGrayBG>
+          <TD width="5%"></TD>
+          <TD><BR>Сейчас на сайте присутствуют:</TD>
+          <TD width="5%">&nbsp;</TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD class=MT_BGColor><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR height=1>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD class=MT_Title><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD>
+          <TD width="5%"><IMG 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+            height=1></TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD><BR><FONT class=Dark>&nbsp;23:47</FONT>&nbsp;<A class=SmallGray 
+            href="http://www.delphikingdom.com/asp/users.asp?ID=22363" 
+            target=_blank>Макс</A><BR><FONT 
+            class=Dark>&nbsp;23:40</FONT>&nbsp;<A class=SmallGray 
+            href="http://www.delphikingdom.com/asp/users.asp?ID=18034" 
+            target=_blank>Андрей Чигинев</A></TD>
+          <TD>&nbsp;</TD></TD></TR></TBODY></TABLE></TD>
+    <TD bgColor=#999999 width=1><IMG 
+      src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+    width=1></TD>
+    <TD width=10>&nbsp;</TD>
+    <TD vAlign=top>
+      <TABLE border=0 cellSpacing=5 cellPadding=0 width="100%">
+        <TBODY>
+        <TR>
+          <TD align=left><A class=SmallGray 
+            href="http://www.delphikingdom.com/team/faq.asp" target=_blank>Во 
+            Флориде и в Королевстве сейчас &nbsp;23:50</A></TD>
+          <TD vAlign=top align=right><A class=SmallGray 
+            href="http://www.delphikingdom.com/asp/login.asp">[Войти]</A> | <A 
+            title="Зачем мне регистрироваться?" 
+            href="http://www.delphikingdom.com/help/help_user.asp" 
+            target=_blank><IMG border=0 align=absMiddle 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/explanation.gif" 
+            width=12 height=13></A> <A class=SmallGray 
+            href="http://www.delphikingdom.com/asp/useradd.asp">[Зарегистрироваться]</A></TD></TR></TBODY></TABLE>
+      <TABLE border=0 cellSpacing=15 cellPadding=0 width="100%">
+        <TBODY>
+        <TR>
+          <TD class=Just><BR><FONT class=Header>WMI - практика применения в 
+            Delphi</FONT>
+            <HR SIZE=1>
+
+            <P align=right><A title="Все публикации автора" 
+            href="http://www.delphikingdom.com/asp/writer.asp?CatalogID=698">Алексей 
+            Павлов</A><BR>дата публикации <FONT class=Brown>24-10-2002 
+            15:11</FONT></P>
+            <DIV align=right>
+            <HR align=right SIZE=1 width="25%">
+            <A class=SmallGray 
+            href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698&amp;mode=print">Версия 
+            для печати</A> <IMG border=0 alt="Версия для печати" align=absMiddle 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/print.gif" 
+            width=20 height=18></DIV><A 
+            name=top></A><STRONG>Содержание:</STRONG> 
+            <TABLE width="100%">
+              <TBODY>
+              <TR>
+                <TD>
+                  <OL>
+                    <LI>Предисловие. 
+                    <LI><A 
+                    href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#02">Введение.</A> 
+
+                    <LI><A 
+                    href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#03">Теория.</A> 
+
+                    <LI><A 
+                    href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#04">Практика.</A> 
+
+                    <OL>
+                      <LI>Подготовка. 
+                      <LI>Порядок действий. </LI></OL></LI></OL></TD>
+                <TD>
+                  <OL start=5>
+                    <LI>Примеры. 
+                    <OL>
+                      <LI><A 
+                      href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#051">Получение 
+                      данных о центральном процессоре.</A> 
+                      <LI><A 
+                      href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#052">Получение 
+                      данных о запущенных процессах.</A> 
+                      <LI><A 
+                      href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#053">Запуск 
+                      приложений и выключение компьютера.</A> 
+                      <LI><A 
+                      href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#054">Получения 
+                      значений c температурных сенсоров и с установленных 
+                      вентиляторов.</A> </LI></OL>
+                    <LI><A 
+                    href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#06">Послесловие.</A> 
+
+                    <LI><A 
+                    href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#07">Список 
+                    использованной литературы.</A> </LI></OL></TD></TR></TBODY></TABLE>
+            <H3><FONT color=#996600>1. Предисловие.</FONT></H3>Приветствую всех 
+            любителей Delphi! В этой статье я хочу поведать вам об одной из 
+            замечательных, с моей точки зрения, технологии, разработанной 
+            Microsoft для облегчения нашей жизни. Теперь любой программист, 
+            используя любой современный язык программирования (не исключая и 
+            скрип языков!) может с лёгкостью узнать о своём компьютере 
+            практически всё. Теперь программисты всех "вероисповеданий" могут 
+            определить, какое оборудование установлено на их компьютере, узнать 
+            информацию о материнской плате и процессоре, параметры БИОСа, какие 
+            процессы запущены в данный момент, какова температура процессора и 
+            скорость вращения кулера, какие настройки графической системы, 
+            какие.… Одним словом, все о чём вы так долго мечтали, стало доступно 
+            благодаря WMI. Звучит заманчиво, не так ли? ;) 
+            <P>Естественно, что WMI - это не только набор параметров. А что это 
+            такое - читайте ниже. </P><A name=02></A>
+            <H3><FONT color=#996600>2. Введение.</FONT></H3>Для того, чтобы не 
+            лишиться большей части потенциальных читателей на начальном этапе, 
+            скажу сразу, что применение Windows Management Instrumentation (WMI) 
+            я буду рассматривать в основном с практической точки зрения (т.е. 
+            теории в этой статье будет немного). Сразу хочу оговориться, что 
+            т.к. я собираюсь осветить вопрос практического использования 
+            технологии WMI в Delphi и намериваюсь достигнуть этой цели 
+            достаточно быстро, то я не стану разжёвывать все, с чем нам придётся 
+            сталкиваться по ходу повествования и ограничусь минимумом теории. 
+            Так что материал изначально ориентирован на тех читателей, кто 
+            уверено чувствует себя в области применения интерфейсов, технологии 
+            COM и кто умеет работать с литературой. 
+            <P>Так же, я не стану излагать всю теорию, непосредственно связанную 
+            с технологией WMI, т.к. во-первых, это достаточно утомительно, а 
+            во-вторых, это уже сделано в лучшем виде, и заниматься 
+            перепечатыванием не имеет смысла. Итак, дальнейшее прочтение статьи 
+            и использование прилагаемых к ней примеров возможно и без понимания 
+            самой сути WMI, но, согласитесь, смысла в этом чуть. Так что очень 
+            рекомендую прочитать следующее:</P>
+            <UL>
+              <LI><A 
+              href="http://www.citforum.ru/operating_systems/articles/wmiin.shtml">"Внутри 
+              Windows Management Interface"</A>. 
+              <LI><A href="http://www.osp.ru/win2000/2001/05/070.htm">"Сценарии 
+              WMI для начинающих"</A> </LI></UL>
+            <P><EM>
+            <BLOCKQUOTE><B>Примечание:</B><BR>: авторы статьи "Внутри Windows 
+              Management Interface" интерпретируют аббревиатуру WMI как Windows 
+              Management Interface, хотя сами создатели (фирма Microsoft) 
+              придерживаются следующей трактовки: Windows Management 
+              Instrumentation, что в общем говоря правильнее. Но и интерпретация 
+              буквы "I", как "Interface", а не как " Instrumentation " вполне 
+              понятна и простительна, т.к. многие разработчики рассматривают WMI 
+              не иначе как набор интерфейсов, позволяющих получать доступ к 
+              определённым компонентам системы. </BLOCKQUOTE></EM>
+            <P></P>Надеюсь, что предложенные мной к прочтению статьи были 
+            прочитаны и <STRONG>поняты</STRONG>, т.к. дальнейшие повествование 
+            подразумевает собой понимание структуры WMI и назначения всех её 
+            составляющих. Все даваемые мной ниже пояснения всего лишь дополнение 
+            к общей теории, а даваемые определения - дополнения к тем, что были 
+            даны в вышеупомянутых статьях (или же умышленно утрированные для 
+            акцентирования внимания на наиболее важных для понимания моментах). 
+            Если же вы прочли вышеперечисленные статьи и всё чётко поняли, то 
+            вас не запутают и не введут в заблуждение мои, не претендующие на 
+            непогрешимость и полноту, определения :) <BR>Итак, начали. 
+            <DIV align=left><A 
+            href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#top"><FONT 
+            color=#999999 size=-2>[ К содержанию ]</FONT></A></DIV><A 
+            name=03></A>
+            <H3><FONT color=#996600>3. Теория.</FONT></H3><IMG border=0 
+            hspace=10 alt="" vspace=10 align=right 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/wmi1.gif" 
+            width=382 height=291> <STRONG>Windows Management Instrumentation 
+            (WMI)</STRONG> - технология, входящая в состав ядра Windows 2000 и 
+            предоставляющая доступ с помощью интерфейсов к объектам системы. 
+            <P>Представлю несколько упрощённую архитектуру WMI в том виде, в 
+            котором она нас будет интересовать в нашем конкретном случае. Быстро 
+            пробежимся по всем её компонентам. </P>
+            <DL>
+              <DT><STRONG>Объекты Win32</STRONG>
+              <DD>- с этим элементом ассоциированы компоненты Win32, к данным 
+              которых мы желаем получить доступ 
+              <DT><STRONG>Провайдер Win32 </STRONG>
+              <DD>- представители объектов Win32, т.е. провайдер осуществляет 
+              связь между "внешним миром" и компонентами системы. Нас провайдеры 
+              будут интересовать как COM (DCOM) серверы, которые могут быть 
+              реализованы как внутренние (в виде DLL), так и внешние (в виде 
+              самостоятельных приложений). 
+              <DT><STRONG>CIM Object Manager </STRONG>
+              <DD>- попросту говоря, это служба координации данных передаваемых 
+              в обоих направлениях (будь то запрос от управляющей программы к 
+              провайдеру или данные предоставляемые провайдером приложению). 
+              <DT><STRONG>Классы CIM </STRONG>
+              <DD>- вернее база данных, содержащая классы, которые есть не что 
+              иное, как шаблоны управляемых элементов, т.е. каждый класс 
+              описывает какой-то элемент и содержит свойства и методы для работы 
+              с этим элементом. 
+              <DT><STRONG>Windows Management API </STRONG>
+              <DD>- интерфейс прикладного программирования, по средствам 
+              которого управляющие приложения обращаются к объектам, а 
+              провайдеры поставляют данные и определения класса. </DD></DL>Наша 
+            программа является в данном случае не чем иным как контроллером, 
+            работающим с помощью Windows Management API с провайдерами 
+            (серверами). 
+            <P>На этом я закончу теоретическое вступление и перейду к 
+            практической части. </P>
+            <DIV align=left><A 
+            href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#top"><FONT 
+            color=#999999 size=-2>[ К содержанию ]</FONT></A></DIV><A 
+            name=04></A>
+            <H3><FONT color=#996600>4. Практика.</FONT></H3>
+            <P>
+            <TABLE border=0 cellSpacing=0 cellPadding=3 width="100%" 
+            bgColor=#faebd7>
+              <TBODY>
+              <TR>
+                <TD align=center><FONT 
+                color=#996600><B>Подготовка.</B></FONT></TD></TR></TBODY></TABLE></P>Итак, 
+            начнём с того, что нам необходимо сделать перед тем, как 
+            непосредственно начать использовать мощь технологии WMI в своих 
+            программах: 
+            <UL>
+              <LI>установить систему Windows 2000 или NT 4.0 SP4 и выше; 
+              <LI>установить Microsoft Internet Explorer (IE) 5.0 и выше; 
+              <LI>установить WMI SDK; </LI></UL>После того, как вы установили WMI 
+            SDK, импортируйте следующие библиотеки типов: 
+            <UL>
+              <LI>Active DS Type Library (Version 1.0) 
+              <LI>Microsoft WMI Scripting v1.1 Library (Version 1.1) 
+            </LI></UL>Отлично, теперь в палитре компонентов у вас появились 
+            новые элементы, которые мы и будем в дальнейшем использовать. 
+            <P>
+            <TABLE border=0 cellSpacing=0 cellPadding=3 width="100%" 
+            bgColor=#faebd7>
+              <TBODY>
+              <TR>
+                <TD align=center><FONT color=#996600><B>Порядок 
+                  действий.</B></FONT></TD></TR></TBODY></TABLE></P>
+            <OL>
+              <LI>Первым делом нам необходимо подсоединиться к интересующему нас 
+              пространству имён. Для данной цели используется интерфейс 
+              <EM>IWbemLocator</EM> и его единственный метод ConnectServer, 
+              который позволит нашей программе (в данном случае наша программа 
+              является WMI клиентом) получить указатель на интерфейс 
+              IWbemServices, который связан с выбранным нами пространством имён 
+              на выбранном нами компьютере (не стоит забывать, что технология 
+              WMI основана на COM/DCOM, что позволяет использовать её удалённо). 
+              Методы объектов типа SWbemServices предназначены для произведения 
+              операций в выбранном пространстве имён. <BR>Да, надеюсь, вы 
+              знаете, где можно посмотреть имя интересующего вас пространства 
+              имён и WMI класса, если нет, то перечитываем предложенные к 
+              прочтению статьи или открываем WMI SDK и просматриваем раздел 
+              Win32 Classes. 
+              <LI>После того, как мы подсоединились к выбранному нами 
+              пространству имён и получили указатель на объект, связанный с 
+              данным пространством имён, нам необходимо получить описание 
+              интересующего нас класса в выбранном нами пространстве имён 
+              (возможно, звучит мудрёно, но на практике всё гораздо проще, в чём 
+              вы скоро сами убедитесь). Для этого воспользуемся методом Get 
+              объекта <EM>SWbemServices</EM>, который вернёт описание 
+              (definition) указанного нами класса (на этом этапе вы уже можете 
+              считать имена свойств класса и названия поддерживаемых им методов, 
+              естественно, все свойства будут содержать null; так же вы можете 
+              создать свой класс на базе полученного описания и дополнить его 
+              своими свойствами и методами). Таким образом, мы получим указатель 
+              на объект типа <EM>SWbemObject</EM>. 
+              <LI>Затем нам необходимо получить непосредственно экземпляр 
+              (instance) класса, описание которого мы получили. Для этого 
+              воспользуемся методом Instances_ объекта <EM>SWbemObject</EM>, 
+              который создаст объект, осуществляющий нумерацию всех экземпляров 
+              (instances) данного класса типа <EM>SWbemObjectSet</EM>. Говоря 
+              по-русски, будет создана коллекция всех объектов данного класса. 
+              Полученный объект <EM>SWbemObjectSet</EM> будет содержать объекты 
+              <EM>SWbemObject</EM>. 
+              <LI>Вот собственно и всё. Получив из объекта 
+              <EM>SWbemObjectSet</EM> экземпляр класса, нам остаётся считать его 
+              свойства и воспользоваться его методами. </LI></OL>Теперь перейдём к 
+            рассмотрению самих примеров. Вашему вниманию будут предложены четыре 
+            примера, полные исходные тексты и рабочие exe-файлы которых вы 
+            найдёте в прилагаемом к статье архиве. 
+            <DIV align=left><A 
+            href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#top"><FONT 
+            color=#999999 size=-2>[ К содержанию ]</FONT></A></DIV><A 
+            name=051></A>
+            <H3><FONT color=#996600>5. Примеры.</FONT></H3>
+            <P>
+            <TABLE border=0 cellSpacing=0 cellPadding=3 width="100%" 
+            bgColor=#faebd7>
+              <TBODY>
+              <TR>
+                <TD align=center><FONT color=#996600><B>5.1. Получение данных 
+                  о центральном 
+            процессоре.</B></FONT></TD></TR></TBODY></TABLE></P>Этот первый 
+            пример я старался сделать как можно нагляднее и разберу я его 
+            достаточно подробно. В остальных же 3-х примерах я не буду 
+            повторяться в комментариях, а постараюсь продемонстрировать 
+            некоторые приёмы, которые, возможно, помогут вам в дальнейшем в 
+            ваших собственных программах. 
+            <P>Создаём новый проект и добавляем к нему компоненту TSWbemLocator, 
+            которая должна появиться в палитре компонент после импортирования 
+            указанных выше библиотек типов. Далее я буду давать комментарии 
+            непосредственно в коде программы.</P><A name=code1></A>
+            <P>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" 
+            bgColor=#999999>
+              <TBODY>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=1 cellPadding=3 width="100%">
+                    <TBODY>
+                    <TR bgColor=#ffffff>
+                      <TD><PRE>unit Unit1;
+
+interface
+
+uses
+  …, WbemScripting_TLB, OleServer, ActiveX;
+type
+  TForm1 = class(TForm)
+    …
+    SWbemLocator1: TSWbemLocator;
+    …;
+  private
+    <FONT color=#0000ff>{ Private declarations }</FONT>
+    procedure ShowProp(SProp: SWBemProperty);
+  public
+    <FONT color=#0000ff>{ Public declarations }</FONT>
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+<FONT color=#0000ff>{$R *.dfm}</FONT>
+
+procedure TForm1.Button1Click(Sender: TObject);
+var
+  Service:             ISWbemServices;
+  ObjectSet:         ISWbemObjectSet;
+  SObject:            ISWbemObject;
+  PropSet:            ISWbemPropertySet;
+  SProp:               ISWbemProperty;
+
+  PropEnum, Enum:      IEnumVariant;
+  TempObj:                   OleVariant;
+  Value:                         Cardinal;
+  StrValue:                    string;
+begin
+<FONT color=#0000ff>  // <A href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#__1">см. Примечание 1</A></FONT>
+  Service:= SWbemLocator1.ConnectServer(<FONT color=#996600>'.'</FONT>, <FONT color=#996600>'root\CIMV2'</FONT>, <FONT color=#996600>''</FONT>, <FONT color=#996600>''</FONT>, <FONT color=#996600>''</FONT>,<FONT color=#996600> ''</FONT>, 0, nil);
+<FONT color=#0000ff>  // <A href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#__2">см. Примечание 2</A></FONT>
+  SObject:= Service.Get(<FONT color=#996600>'Win32_Processor'</FONT>, wbemFlagUseAmendedQualifiers, nil);
+<FONT color=#0000ff>  //<A href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#__3"> см. Примечание 3</A></FONT>											 
+  ObjectSet:= SObject.Instances_(0, nil);
+<FONT color=#0000ff>  {
+  Далее нам нужно из коллекции ObjectSet получить экземпляр объекта, 
+  соответствующий классу Win32_Processor. 
+  Делается это с помощью метода Item объекта ObjectSet. 
+  В качестве первого параметра этого метода указывается путь к объекту, 
+  экземпляр которого вы желаете извлечь из коллекции. 
+  Данный метод возвращает объект типа SWbemObject. Но нам не известно, как выглядит этот путь.  
+  Использовать дополнительный класс SwbemObjectPath тоже нет никакого желания.
+  Так что делаю "финт ушами":
+  }
+  //  SObject:= ObjectSet.Item('???', 0); </FONT>
+
+  Enum:= (ObjectSet._NewEnum) as IEnumVariant;
+  Enum.Next(1, TempObj, Value);
+  SObject:= IUnknown(TempObj) as SWBemObject;
+<FONT color=#0000ff>  {
+  Полагаю, что данный приём понятен читателю и в комментариях не нуждается.
+
+  Вот практически и всё - осталось прочитать интересующие нас свойства.
+  Сколько было слов и как всё просто оказалось в действительности :)
+
+  Перебираем свойства объекта SObject:
+ }</FONT>
+  while (PropEnum.Next(1, TempObj, Value) = S_OK) do
+  begin
+    SProp:= IUnknown(TempObj) as SWBemProperty;  
+    StrValue:= <FONT color=#996600>''</FONT>;
+    ListBox1.AddItem(SProp.Name, nil);
+    ShowProp(SProp);
+  end;
+end;
+
+procedure TForm1.ShowProp(SProp: SWBemProperty);
+begin
+  if (SProp.Get_Value &lt;&gt; null) then
+  begin
+    with SProp do
+    begin
+      if Name = <FONT color=#996600>'Name'</FONT> then
+        Label2.Caption:= Get_Value
+      else if Name = <FONT color=#996600>'Manufacturer'</FONT> then
+	….
+
+    end; <FONT color=#0000ff>{ with }</FONT>
+  end;<FONT color=#0000ff> { if }</FONT>
+end;
+
+end. 
+</PRE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></P><STRONG>Пояснения 
+            к коду:</STRONG> 
+            <DL><A name=__1></A>
+              <DT><STRONG>Примечание 1</STRONG>
+              <DD>Подсоединяемся к пространству имён <FONT 
+              color=#996600>'root\CIMV2'</FONT> нашего компьютера. Метод 
+              <STRONG>ConnectServer</STRONG> принимает следующие параметры: <PRE>objwbemServices = ConnectServer(
+  [ strServer = "" ],
+  [ strNameSpace = "" ],
+  [ strUser = "" ],
+  [ strPassword = "" ],
+  [ strLocale = "" ],
+  [ strAuthority = "" ],
+  [ iSecurityFlags = 0 ],
+  [ objwbemNamedValueSet = null ]
+)</PRE>
+              <UL>
+                <LI><STRONG>strServer</STRONG> - необязательный к указанию 
+                параметр, содержащий имя компьютера к пространству имён которого 
+                вы желаете подключиться. Если не указан, имеется в виду данный 
+                компьютер; 
+                <LI><STRONG>strNameSpace</STRONG> - необязательный к указанию 
+                параметр, содержащий строку, указывающую к какому пространству 
+                имён вы собираетесь подключиться. Если не указан, то 
+                устанавливается в значение по умолчанию. 
+                <LI><STRONG>StrUser</STRONG> - необязательный к указанию 
+                параметр, содержащий строку с именем пользователя, которое будет 
+                использовано при подключении. При применении на локальной машине 
+                должна содержать нулевую строку. Применяется только при 
+                подключении к удалённой машине. 
+                <LI><STRONG>StrPassword</STRONG> - см. StrUser. 
+                <LI><STRONG>StrLocale</STRONG> - необязательный к указанию 
+                параметр, содержащий код местности (localization code). Должен 
+                содержать нулевую строку для применения действующего кода 
+                местности. 
+                <LI><STRONG>StrAuthority</STRONG> - необязательный к указанию 
+                параметр, предназначенный для работы в сетях с системой 
+                Kerberos. 
+                <LI><STRONG>ISecurityFlags</STRONG> - необязательный к указанию 
+                параметр. Если содержит 0, то метод ConnectServer вернёт 
+                результат только после того, как соединение с сервером будет 
+                установлено, т.е. если соединение установить не удалось - ваша 
+                программа повиснет. Если содержит значение 
+                wbemConnectFlagUseMaxWait, то приложение ждёт две минуты после 
+                чего возвращает код ошибки. 
+                <LI><STRONG>ObjwbemNamedValueSet</STRONG> - необязательный к 
+                указанию параметр. Обычно его не определяют (nil). Вообще 
+                говоря, можно указать объект типа SWbemNamedValueSet, который 
+                будет содержать информацию, которая может быть использована 
+                провайдером, обслуживающим данный запрос. </LI></UL>Подробнее обо 
+              всех свойствах см. Platform SDK. <BR>
+              <DIV align=left><A 
+              href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#code1"><FONT 
+              color=#999999 size=-2>[ К коду ]</FONT></A></DIV><BR><A 
+              name=__2></A>
+              <DT><STRONG>Примечание 2</STRONG>
+              <DD>Теперь получим описание интересующего нас класса, т.е. 
+              Win32_Processor. <BR>Делается это с помощью метода Get полученного 
+              нами объекта Service. <BR>Метод Get принимает следующие параметры: 
+<PRE>objWbemObject = Get(
+  [ strObjectPath = "" ],
+  [ iFlags = 0 ],
+  [ objWbemNamedValueSet = null ]
+)</PRE>
+              <UL>
+                <LI><STRONG>strObjectPath</STRONG> - необязательный к указанию 
+                параметр, содержащий название класса, описание которого мы 
+                желаем получить. Если данный параметр будет содержать нулевую 
+                строку, то будет создан новый класс. 
+                <LI><STRONG>IFlags</STRONG> - необязательный к указанию 
+                параметр. Принимает только одно значение: 
+                wbemFlagUseAmendedQualifiers. 
+                <LI><STRONG>ObjWbemNamedValueSet</STRONG> - см. выше. 
+              </LI></UL>Подробнее обо всех свойствах см. Platform SDK. <BR>
+              <DIV align=left><A 
+              href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#code1"><FONT 
+              color=#999999 size=-2>[ К коду ]</FONT></A></DIV><BR><A 
+              name=__3></A>
+              <DT><STRONG>Примечание 3</STRONG>
+              <DD>Теперь надо получить коллекцию экземпляров класса 
+              Win32_Processor. <BR>Делается это с помощью метода Instances_ 
+              объекта SObject. <BR>Метод Instances_ принимает следующие 
+              параметры: <PRE>objWbemObjectSet = Instances_(
+  [ iFlags = wbemFlagReturnImmediately ],
+  [ objwbemNamedValueSet = null ]
+)</PRE>
+              <UL>
+                <LI><STRONG>iFlags</STRONG> - необязательный к указанию 
+                параметр, содержащий числовое значение типа Integer, 
+                определяющее поведение данного запроса. 
+                <LI><STRONG>ObjwbemNamedValueSet</STRONG> - см. выше. 
+              </LI></UL>Подробнее обо всех свойствах см. Platform SDK. <BR>
+              <DIV align=left><A 
+              href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#code1"><FONT 
+              color=#999999 size=-2>[ К коду 
+            ]</FONT></A></DIV><BR></DD></DL>Исходный код и exe-файл данного 
+            примера вы сможете найти в прилагаемом к статье архиве в каталогах 
+            \source\GetProcessorData и \Exe-files соответственно. 
+            <P>Вот что у меня получилось:</P>
+            <DIV align=center><IMG border=0 alt="" 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/wmi2.gif" 
+            width=633 height=304></DIV>
+            <DIV align=left><A 
+            href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#top"><FONT 
+            color=#999999 size=-2>[ К содержанию ]</FONT></A></DIV><A 
+            name=052></A>
+            <P>
+            <TABLE border=0 cellSpacing=0 cellPadding=3 width="100%" 
+            bgColor=#faebd7>
+              <TBODY>
+              <TR>
+                <TD align=center><FONT color=#996600><B>5.2. Получение данных 
+                  о запущенных 
+            процессах.</B></FONT></TD></TR></TBODY></TABLE></P>Данный пример 
+            будет отличаться от предыдущего только тем, что я использую нехитрый 
+            приём и покажу, как вывести все свойства объекта некого класса, не 
+            зная самих имён этих свойств. Действуем так же, как и в первом 
+            примере: <A name=code2></A>
+            <P>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" 
+            bgColor=#999999>
+              <TBODY>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=1 cellPadding=3 width="100%">
+                    <TBODY>
+                    <TR bgColor=#ffffff>
+                      <TD><PRE>…
+var
+  Form1: TForm1;
+  ListItem:   TListItem;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.Button1Click(Sender: TObject);
+var
+  Service:             ISWbemServices;
+  ObjectSet:         ISWbemObjectSet;
+  SObject:            ISWbemObject;
+  PropSet:            ISWbemPropertySet;
+  SProp:               ISWbemProperty;
+
+  PropEnum, Enum:    IEnumVariant;
+  TempObj:                 OleVariant;
+  Value:                       Cardinal;
+  Column:                   TListColumn;
+begin
+  ListView1.Items.BeginUpdate;
+  ListView1.Items.Clear;
+
+  Service:= SWbemLocator1.ConnectServer(<FONT color=#996600>'.'</FONT>, <FONT color=#996600>'root\CIMV2'</FONT>, <FONT color=#996600>''</FONT>, <FONT color=#996600>''</FONT>, <FONT color=#996600>''</FONT>, <FONT color=#996600>''</FONT>, 0, nil);
+  SObject:= Service.Get(<FONT color=#996600>'Win32_Process'</FONT>, wbemFlagUseAmendedQualifiers, nil);
+  ObjectSet:= SObject.Instances_(0, nil);
+  Enum:= (ObjectSet._NewEnum) as IEnumVariant;
+<FONT color=#0000ff>
+  {
+  На данном этапе начинаются некоторые незначительные отличия от первого примера. 
+  В предыдущем примере, мы знали, что у нас был единственный экземпляр класса 
+  Win32_Processor, характеризующий центральный процессор. 
+  В данном примере мы имеем столько экземпляров, сколько запущенных процессов, 
+  поэтому их все необходимо перебрать и получить их свойства:
+  }
+</FONT>
+<FONT color=#0000ff>// в этом цикле перебираю все имеющиеся экземпляры</FONT> 
+  while (Enum.Next(1, TempObj, Value) = S_OK) do
+  begin
+    SObject:= IUnknown(TempObj) as SWBemObject;
+    PropSet:= SObject.Properties_;
+    PropEnum:= (PropSet._NewEnum) as IEnumVariant;
+    ListItem:= ListView1.Items.Add;
+
+<FONT color=#0000ff>  // перебираю свойства</FONT>
+    while (PropEnum.Next(1, TempObj, Value) = S_OK) do
+    begin
+      SProp:= IUnknown(TempObj) as SWBemProperty;
+      if ListView1.Items.Count = 1 then
+      begin
+        Column := ListView1.Columns.Add;
+        Column.Width := 100;
+        Column.Caption := SProp.Name;
+      end;
+      ShowProp(SProp);
+    end;
+  end; <FONT color=#0000ff>{ while }</FONT>
+  ListView1.Items.EndUpdate;
+end;	  
+<FONT color=#0000ff>// В процедуре ShowProp происходит определение типа свойства 
+// и соответствующие приведение типа.</FONT>
+procedure TForm1.ShowProp(SProp: ISWbemProperty);
+var
+  StrValue: string;
+  Count: Cardinal;
+begin
+  StrValue:= <FONT color=#996600>''</FONT>;
+  if VarIsNull(SProp.Get_Value) then
+    StrValue:= <FONT color=#996600>'<EMPTY>'</FONT>
+  else
+    case SProp.CIMType of
+<FONT color=#0000ff>//******************************************************************//</FONT>
+      wbemCimtypeUint8, wbemCimtypeSint8, wbemCimtypeUint16, wbemCimtypeSint16,
+      wbemCimtypeUint32, wbemCimtypeSint32, wbemCimtypeSint64:
+      if VarIsArray(SProp.Get_Value) then
+      begin
+        if VarArrayHighBound(SProp.Get_Value, 1) &gt; 0 then
+          for Count:= 1 to VarArrayHighBound(SProp.Get_Value, 1) do
+            StrValue:= StrValue + <FONT color=#996600>' '</FONT> + IntToStr(SProp.Get_Value[Count]);
+      end
+      else
+        StrValue:= IntToStr(SProp.Get_Value);
+<FONT color=#0000ff>//******************************************************************//</FONT>
+      wbemCimtypeReal32, wbemCimtypeReal64:
+        StrValue:= FloatToStr(SProp.Get_Value);
+<FONT color=#0000ff>//******************************************************************//
+
+      …
+
+//******************************************************************//
+</FONT>      else
+        MessageBox(0, PChar(<FONT color=#996600>'Unknown type'</FONT>), PChar(Form1.Caption), MB_OK);
+    end; {case}
+    if ListItem.Caption = <FONT color=#996600>''</FONT> then
+      ListItem.Caption := StrValue
+    else
+      ListItem.SubItems.Add(StrValue);
+end;
+
+end.											 
+</PRE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></P>Исходный 
+            код и exe-файл данного примера вы сможете найти в прилагаемом к 
+            статье архиве в каталогах \source\ GetProcessData и \Exe-files 
+            соответственно. <BR><BR>А выглядит это так: 
+            <DIV align=center><IMG border=0 alt="" 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/wmi3.gif" 
+            width=431 height=260></DIV>
+            <DIV align=left><A 
+            href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#top"><FONT 
+            color=#999999 size=-2>[ К содержанию ]</FONT></A></DIV><A 
+            name=053></A>
+            <P>
+            <TABLE border=0 cellSpacing=0 cellPadding=3 width="100%" 
+            bgColor=#faebd7>
+              <TBODY>
+              <TR>
+                <TD align=center><FONT color=#996600><B>5.3. Запуск приложений 
+                  и выключение компьютера.</B></FONT></TD></TR></TBODY></TABLE></P>В 
+            данном примере я продемонстрирую, как использовать 
+            <STRONG>методы</STRONG>, предоставляемые провайдерами. 
+            <P>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" 
+            bgColor=#999999>
+              <TBODY>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=1 cellPadding=3 width="100%">
+                    <TBODY>
+                    <TR bgColor=#ffffff>
+                      <TD><PRE>…
+
+var
+  Form1: TForm1;
+  Service: ISWbemServices;
+  InParam, OutParam, SObject, Process:    ISWbemObject;
+  Method:   ISWbemMethod;
+  SProp1, SProp2, MyProperty: ISWbemProperty;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.Button1Click(Sender: TObject);
+var
+  PropValue: OleVariant;
+begin
+  Service:= SWbemLocator1.ConnectServer(<FONT color=#996600>'.'</FONT>, <FONT color=#996600>'root\cimv2'</FONT>, <FONT color=#996600>''</FONT>, <FONT color=#996600>''</FONT>,<FONT color=#996600> ''</FONT>,   <FONT color=#996600>''</FONT>, 0, nil);
+<FONT color=#0000ff>  // <A href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#c__1">см. Примечание 1</A></FONT>
+  Service.Security_.Set_ImpersonationLevel(wbemImpersonationLevelImpersonate);
+  Process:= Service.Get(<FONT color=#996600>'Win32_Process'</FONT>, 0, nil);
+<FONT color=#0000ff>  // <A href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#c__2">см. Примечание 2</A></FONT>  
+  Method:= Process.Methods_.Item(<FONT color=#996600>'Create'</FONT>, 0);
+<FONT color=#0000ff>  // <A href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#c__3">см. Примечание 3</A></FONT>    
+  InParam:= Method.InParameters.SpawnInstance_(0);
+<FONT color=#0000ff>  // <A href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#c__4">см. Примечание 4</A></FONT>      
+  MyProperty:= InParam.Properties_.Add(<FONT color=#996600>'CommandLine'</FONT>, wbemCimtypeString, False, 0);  
+<FONT color=#0000ff>{
+  С помощью метода Set_Value объекта ISWbemProperty присваеваем свойству CommandLine
+  значение Notepad.exe
+}</FONT>
+  PropValue:= 'Notepad.exe';
+  MyProperty.Set_Value(PropValue);
+
+<FONT color=#0000ff>  // После того, как все входные свойства определены, запускаем приложение.
+  // OutParam - объект, возвращаемый методом ExecMethod_</FONT>
+
+  OutParam:= Process.ExecMethod_(<FONT color=#996600>'Create'</FONT>, InParam, 0, nil);
+
+<FONT color=#0000ff>  //  Получения выходных параметров из возвращённого объекта OutParam типа SWbemObject</FONT>
+
+  SProp1:= outParam.Properties_.Item(<FONT color=#996600>'ReturnValue'</FONT>, 0);
+  
+<FONT color=#0000ff>  // Проверяю, удалось ли запустить приложение. Если свойство ReturnValue не равно 0,
+  // то произошла ошибка.</FONT>
+  if SProp1.Get_Value = 0 then
+  begin
+    SProp2:= outParam.Properties_.Item(<FONT color=#996600>'ProcessID'</FONT>, 0);
+    Button2.Enabled:= True;
+    Button1.Enabled:= False;
+    sleep(300);
+    SetForegroundWindow(Form1.Handle);
+  end
+  else
+    MessageBox(0, PChar(<FONT color=#996600>'Не удалось запустить приложение.'</FONT>), PChar(Form1.Caption), MB_OK);
+
+end;
+
+procedure TForm1.Button2Click(Sender: TObject);
+var
+  PropValue: OleVariant;
+begin
+    SObject:= Service.Get(<FONT color=#996600>'Win32_Process.Handle="'</FONT> +  WideString(SProp2.Get_Value) + <FONT color=#996600>'"'</FONT>, 0, nil);
+    Method:= SOBject.Methods_.Item(<FONT color=#996600>'Terminate'</FONT>, 0);
+    InParam:= Method.InParameters.SpawnInstance_(0);
+    MyProperty:= InParam.Properties_.Add(<FONT color=#996600>'Reason'</FONT>, wbemCimtypeUint32, False, 0);
+    PropValue:= 0;
+    MyProperty.Set_Value(PropValue);
+    OutParam:= SObject.ExecMethod_(<FONT color=#996600>'Terminate'</FONT>, InParam, 0, nil);
+    SProp1:= outParam.Properties_.Item(<FONT color=#996600>'ReturnValue'</FONT>, 0);
+    if SProp1.Get_Value = 0 then
+    begin
+      Button1.Enabled:= True;
+      Button2.Enabled:= False;
+    end
+    else
+      MessageBox(0, PChar(<FONT color=#996600>'Не удалось закрыть приложение.'</FONT>), PChar(Form1.Caption), MB_OK);
+end;
+procedure TForm1.Button3Click(Sender: TObject);
+var
+  ObjectSet: ISWbemObjectSet;
+  Enum:      IEnumVariant;
+  TempObj:   OleVariant;
+  Value:     Cardinal;
+begin
+<FONT color=#0000ff>// Выключение компьютера - использование Shutdown без свойств.</FONT>
+  if MessageBox(0, PChar(<FONT color=#996600>'Если вы выберете ''Да'', ваш компьютер выключится!'</FONT>),
+    PChar(Form1.Caption), MB_YESNO or MB_ICONEXCLAMATION or MB_DEFBUTTON2) = mrYes then
+  begin
+    Service:= SWbemLocator1.ConnectServer(<FONT color=#996600>'.'</FONT>, <FONT color=#996600>'root\cimv2'</FONT>, <FONT color=#996600>''</FONT>, <FONT color=#996600>''</FONT>, <FONT color=#996600>''</FONT>,
+      <FONT color=#996600>''</FONT>, 0, nil);
+    Service.Security_.Privileges.Add(wbemPrivilegeShutdown, True);
+<FONT color=#0000ff>  // <A href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#c__5">см. Примечание 5</A></FONT>    
+<FONT color=#0000ff>//  SObject:= Service.Get('Win32_OperatingSystem', wbemFlagUseAmendedQualifiers, nil);
+//  ObjectSet:= SObject.Instances_(0, nil);</FONT>
+
+    ObjectSet:= Service.ExecQuery(<FONT color=#996600>'SELECT * FROM Win32_OperatingSystem WHERE Primary=True'</FONT>,
+      <FONT color=#996600>'WQL'</FONT>, wbemFlagReturnImmediately, nil);
+
+    Enum:= (ObjectSet._NewEnum) as IEnumVariant;
+    while (Enum.Next(1, TempObj, Value) = S_OK) do
+    begin
+      SObject:= IUnknown(tempObj) as SWBemObject;
+      SObject.ExecMethod_(<FONT color=#996600>'Shutdown'</FONT>, nil, 0, nil);
+    end;
+  end; <FONT color=#0000ff>{ if MessageBox }</FONT>
+end;
+
+end.
+</PRE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></P><STRONG>Пояснения 
+            к коду:</STRONG> 
+            <DL><A name=c__1></A>
+              <DT><STRONG>Примечание 1</STRONG>
+              <DD><STRONG>Security_</STRONG> - данное свойство используется в 
+              том случае, когда вы собираетесь считать или установить настройки 
+              безопасности для объекта SWbemServices. Объект SWbemSecurity имеет 
+              следующие свойства: AuthenticationLevel, ImpersonationLevel, 
+              Privileges. Нас в данном случае будет интересовать только второе 
+              свойство. ImpersonationLevel - Числовое значение. Данное свойство 
+              определяет, может ли процесс, владельцем которого является WMI, 
+              пользоваться правами вашей учётной записи, что может быть 
+              необходимо при обращении к другим процессам. Я буду пользоваться 
+              значением '3' (wbemImpersonationLevelImpersonate), что означает, 
+              что я наделяю данный объект правами того, кто его вызвал. Об 
+              остальных уровнях наследования прав читайте в SDK. <BR><BR>
+              <DIV align=left><A 
+              href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#code2"><FONT 
+              color=#999999 size=-2>[ К коду ]</FONT></A></DIV><A name=c__2></A>
+              <DT><STRONG>Примечание 2</STRONG>
+              <DD>Свойство Methods_ объекта SWbemObject представляет собой 
+              объект типа SWbemMethodSet, который является не чем иным, как 
+              коллекцией методов данного класса (или экземпляра 
+              класса).<BR>Данное свойство предназначено только для чтения 
+              (read-only).<BR><BR>Единственный метод Item объекта SWbemMethodSet 
+              возвращает объект типа SWbemMethod. <BR>Метод Item принимает 
+              следующие параметры: <PRE> objMethod = Item(
+  strName,
+  [ iFlags = 0 ]
+  )</PRE><STRONG>strName</STRONG> - необходимый параметр. Имя 
+              метода, указатель на который должен быть возвращён данным методом. 
+              <BR><BR>
+              <DIV align=left><A 
+              href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#code2"><FONT 
+              color=#999999 size=-2>[ К коду ]</FONT></A></DIV><A name=c__3></A>
+              <DT><STRONG>Примечание 3</STRONG>
+              <DD>Свойство InParameters объекта SWbemMethod определяет входные 
+              параметры для данного метода. Метод SpawnInstance_ объекта 
+              SWbemObject создаёт новый экземпляр класса.<BR>Данный метод имеет 
+              следующие входные параметры: <PRE>  objNewInstance = SpawnInstance_(
+  [ iFlags = 0 ]
+  )</PRE>Единственный параметр <STRONG>iFlags</STRONG> 
+              зарезервирован и не обязателен к указанию.<BR>Если указывается, то 
+              должен быть равен 0. <BR><BR>
+              <DIV align=left><A 
+              href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#code2"><FONT 
+              color=#999999 size=-2>[ К коду ]</FONT></A></DIV><A name=c__4></A>
+              <DT><STRONG>Примечание 4</STRONG>
+              <DD>Свойство Properties_ объекта SWbemObject представляет собой 
+              объект типа SWbemPropertySet, который является коллекцией свойств 
+              для данного класса или экземпляра.<BR>Метод Add объекта 
+              SWbemPrivilegeSet добавляет объект типа SWbemProperty к объекту 
+              SWbemPrivilegeSet. <BR>Данный метод имеет следующие входные 
+              параметры: <PRE>objProperty = Add(
+  strName,
+  iCIMType,
+  [ bIsArray = FALSE ],
+  [ iFlags = 0 ]
+                   )</PRE>
+              <UL>
+                <LI><STRONG>strName</STRONG> - обязательный к указанию параметр. 
+                Имя нового свойства. 
+                <LI><STRONG>iCIMType</STRONG> - обязательный к указанию 
+                параметр. Определяет тип (CIMType) свойства. 
+                <LI><STRONG>bIsArray</STRONG> - необязательный к указанию 
+                параметр. Определяющий является ли данное свойство массивом. По 
+                умолчанию False. 
+                <LI><STRONG>iFlags</STRONG> - необязательный к указанию 
+                параметр. Зарезервирован. Если указывается, то должен быть равен 
+                0. </LI></UL><BR><BR>
+              <DIV align=left><A 
+              href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#code2"><FONT 
+              color=#999999 size=-2>[ К коду ]</FONT></A></DIV><A name=c__5></A>
+              <DT><STRONG>Примечание 5</STRONG>
+              <DD>Для получения коллекции экземпляров Win32_OperatingSystem я 
+              намеренно воспользовался методом ExecQuery объекта ISWbemServices, 
+              что бы продемонстрировать работу данной ф-ии. <BR>Использование 
+              данного метода равносильно используемой мною ранее конструкции. 
+              <BR><BR>Кстати, синтаксис WQL вам ничего не напоминает? ;) 
+              Правильно - WQL прямой потомок ANSI SQL, и соответствует 
+              синтаксису SQL. В WQL введены незначительные семантические 
+              изменения необходимые для работы с WMI. Так что вам даже не 
+              придётся учить новый язык запросов, для того что бы использовать 
+              WMI - Microsoft оказалась гуманной и мудрой в этом отношении и в 
+              очередной раз не усложнила нашу жизнь :) <BR>Для интересующихся 
+              правилами составления запросов: откруваем SDK, раздел "Querying 
+              with WQL", всё понятно и доступно. <BR>
+              <DIV align=left><A 
+              href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#code2"><FONT 
+              color=#999999 size=-2>[ К коду ]</FONT></A></DIV></DD></DL>Исходный 
+            код и exe-файл данного примера вы сможете найти в прилагаемом к 
+            статье архиве в каталогах \source\ UseMethods и \Exe-files 
+            соответственно. 
+            <DIV align=left><A 
+            href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#top"><FONT 
+            color=#999999 size=-2>[ К содержанию ]</FONT></A></DIV><A 
+            name=054></A>
+            <P>
+            <TABLE border=0 cellSpacing=0 cellPadding=3 width="100%" 
+            bgColor=#faebd7>
+              <TBODY>
+              <TR>
+                <TD align=center><FONT color=#996600><B>5.4. Получения 
+                  значений c температурных сенсоров и с установленных 
+                  вентиляторов.</B></FONT></TD></TR></TBODY></TABLE></P>Данный пример 
+            не содержит каких-либо новых решений или приёмов, кроме проверки на 
+            существование провайдера (вернее возможности работать с ним), 
+            осуществляющего связь между требуемым компонентом системы и 
+            программой. У меня (Chaintech 7VJL (Apogee) VIA KT333 / Athlon XP 
+            1600+ / Windows 2000 Professional SP3) не удаётся получить свойства 
+            некоторых классов, например, Win32_Fan и Win32_TemperatureProbe. 
+            Выражается это в том, что не удаётся получить экземпляр ни одного из 
+            этих классов. Дело в том, что WMI не может получить доступ к WMI 
+            провайдеру. Но, т.к. данные классы имеются в хранилище CIM классов, 
+            то получить описание данных классов удаётся: <PRE>  
+  Service:= SWbemLocator1.ConnectServer(<FONT color=#996600>'.'</FONT>, <FONT color=#996600>'root\CIMV2'</FONT>, <FONT color=#996600>''</FONT>, <FONT color=#996600>''</FONT>,<FONT color=#996600> ''</FONT>, <FONT color=#996600>''</FONT>, 0, nil);
+  SObject:= Service.Get(<FONT color=#996600>'Win32_Fan'</FONT>, wbemFlagUseAmendedQualifiers, nil);
+</PRE>Но при выполнении: <PRE>ObjectSet:= SObject.Instances_(0, nil);</PRE>Метод Instances_ 
+            не возвращает требуемой коллекции экземпляров и функция Enum.Next(1, 
+            TempObj, Value) вернёт значение S_FALSE, а при попытке выполнить 
+            PropSet := SObject.Properties_; как я сделал в первом примере, вы 
+            получите отказ в доступе (Access Violation), причина понятна…. 
+            <P>Я проверял работу данного примера и на материнской плате Gigabyte 
+            VIA KT266 с аналогичным процессором и операционной системой - 
+            результат тот же. </P>Думаю, не нужно говорить о том, что обе 
+            материнских платы имеют соответствующие сенсоры для диагностики 
+            температурного режима и контроля вращения вентиляторов. 
+            <P>Между тем, имеется информация о том, что данные параметры удаётся 
+            без проблем получить на материнских платах с чипсетами (chipset) 
+            фирмы Intel. Ничего по этому поводу сказать не могу - у меня в 
+            момент написания данной статьи не было возможности протестировать 
+            данный пример на компьютерах на базе чипсетов от Intel. </P>Исходный 
+            код и exe-файл данного примера вы сможете найти в прилагаемом к 
+            статье архиве в каталогах \source\ FanAndTemperature и \Exe-files 
+            соответственно. 
+            <DIV align=left><A 
+            href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#top"><FONT 
+            color=#999999 size=-2>[ К содержанию ]</FONT></A></DIV><A 
+            name=06></A>
+            <H3><FONT color=#996600>6. Послесловие.</FONT></H3>На этом я закончу 
+            рассказ о применении технологии WMI. Надеюсь, что теперь вы 
+            прониклись мыслью о том, что WMI крайне удобная и относительно 
+            несложная в реализации технология, которая поможет решить массу 
+            ваших проблем :) Microsoft продолжает активно развивать WMI, и в 
+            скором времени мы получим мощнейший инструмент, области применения 
+            которого очень и очень обширны. Нам, людям занимающимся 
+            программированием, как никому другому приходится год от года, месяц 
+            от месяца пополнять свой "боевой" арсенал всё новыми и новыми 
+            знаниями, приёмами, инструментами и методологиями. На мой взгляд, 
+            технология WMI может занять достойное место в вашем личном арсенале 
+            знаний. <BR><BR><STRONG>P.S.</STRONG> <BR>Если вам что-то не понятно 
+            в примерах или самой теории, то прежде чем отягощать кого-либо 
+            своими расспросами, откройте Platform SDK Documentation, затратьте 
+            немного своего драгоценного времени и поищите самостоятельно ответы 
+            на свои вопросы. Как показывает практика многих поколений - решение, 
+            найденное самостоятельно, стоит нескольких, полученных от кого-то. 
+            Но если всё же у вас ничего не выйдет - пишите мне, будем 
+            разбираться вместе :) <A name=07></A>
+            <H3><FONT color=#996600>7. Список использованной 
+            литературы.</FONT></H3>
+            <OL>
+              <LI>Platform SDK Release: August 2002. </LI></OL>
+            <P align=right><STRONG>Алексей Павлов </STRONG><BR>Специально для <A 
+            href="http://www.delphikingdom.com/"><B>Королевства 
+            Delphi</B></A><BR><BR>Moscow Power Engineering Institute (Technical 
+            University)<BR>Faculty of Nuclear Power Plants<BR>21.10.02 </P>
+            <DIV align=left><A 
+            href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#top"><FONT 
+            color=#999999 size=-2>[ К содержанию 
+            ]</FONT></A></DIV><BR><BR>Скачать <STRONG><A 
+            href="http://www.delphikingdom.com/zip/wmi.zip">WMI.zip</A></STRONG> 
+            (886 K) <BR><BR><BR><BR><BR><FONT class=SubHeader>Смотрите также 
+            материалы по темам:</FONT>
+            <HR SIZE=1>
+             [<A class=SmallGray 
+            href="http://www.delphikingdom.com/asp/itemq.asp?mode=1&amp;itemid=121">Работа 
+            с портами, аппаратурой</A>] [<A class=SmallGray 
+            href="http://www.delphikingdom.com/asp/itemq.asp?mode=1&amp;itemid=220">Взаимодействие 
+            с 'чужими' процессами/приложениями</A>] [<A class=SmallGray 
+            href="http://www.delphikingdom.com/asp/itemq.asp?mode=1&amp;itemid=243">Информация 
+            о системе, использованных ресурсах и т.д.</A>]<BR><BR><IMG border=0 
+            align=absMiddle 
+            src="WMI%20-%20практика%20применения%20в%20Delphi_files/pencil.gif" 
+            width=16 height=16>&nbsp;<A class=Bold 
+            href="http://www.delphikingdom.com/asp/articles_forum.asp?ArticleID=698">Обсуждение 
+            материала</A> [ <FONT class=Brown>07-05-2010 10:51</FONT> ] 67 
+            сообщений</TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD width=10>&nbsp;</TD>
+    <TD bgColor=#999999 width=1><IMG 
+      src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+    width=1></TD>
+    <TD class=MT_BGColor vAlign=top width=150 align=right><A title=Вверх 
+      href="http://www.delphikingdom.com/asp/viewitem.asp?catalogid=698#PageTop"><IMG 
+      border=0 align=right 
+      src="WMI%20-%20практика%20применения%20в%20Delphi_files/top.gif" width=16 
+      height=16></A></TD>
+    <TD bgColor=#999999 width=1><IMG 
+      src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+    width=1></TD>
+    <TD colSpan=2>&nbsp;</TD></TR>
+  <TR class=MT_BGColor>
+    <TD bgColor=#ffffff width=10><IMG 
+      src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+      height=1></TD>
+    <TD colSpan=5><IMG 
+      src="WMI%20-%20практика%20применения%20в%20Delphi_files/empty.gif" 
+      height=1></TD></TR></TBODY></TABLE>
+<DIV class=SmallGray align=right>Время на сайте: GMT минус 5 часов</DIV>
+<P><FONT class=Orfo>Если вы заметили орфографическую ошибку на этой странице, 
+просто выделите <STRONG>ошибку</STRONG> мышью и нажмите Ctrl+Enter.<BR><FONT 
+color=#666666>Функция может не работать в некоторых версиях 
+броузеров.</FONT></FONT></P>
+<DIV class=SmallGray align=right>Хостинг предоставлен компанией <A 
+href="http://www.dotnetpark.com/">DOTNETPARK (ASP.NET, MS SQL hosting)</A> 
+&nbsp;</DIV>
+<P></P>
+<TABLE border=0 cellSpacing=0 cellPadding=3 width="100%">
+  <TBODY>
+  <TR>
+    <TD bgColor=#ffcc99>&nbsp;</TD></TR></TBODY></TABLE><FONT class=Dark>© При 
+использовании любых материалов «Королевства Delphi» необходимо указывать 
+источник информации. Перепечатка авторских статей возможна <STRONG>только при 
+согласии всех авторов и администрации сайта</STRONG>.<BR>Все используемые на 
+сайте торговые марки являются собственностью их производителей.</FONT> 
+<HR SIZE=1>
+<!-- Orphus begin --><IFRAME height=31 
+src="javascript:'<body marginheight=0 marginwidth=0 topmargin=0 leftmargin=0><script language=JavaScript src=http://'+ parent.document.location.host+ '/js/orphus.js></'+'script></body>'" 
+frameBorder=0 width=88 
+scrolling=no></IFRAME><!-- Orphus end --><!--/COUNTER--><A 
+href="http://www.yandex.ru/cy?base=0&amp;host=www.delphikingdom.com"><IMG 
+border=0 alt="Яндекс цитирования" 
+src="WMI%20-%20практика%20применения%20в%20Delphi_files/cycounter.gif" width=88 
+height=31></A> <!--LiveInternet logo--><A 
+href="http://www.liveinternet.ru/click" target=_blank><IMG 
+title="liveinternet.ru: показано число посетителей за сегодня" border=0 
+src="WMI%20-%20практика%20применения%20в%20Delphi_files/logo.gif" width=88 
+height=15></A> <!--/LiveInternet--></BODY></HTML>

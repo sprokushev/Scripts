@@ -1,0 +1,347 @@
+EurekaLog 4.5.7
+
+Application:
+-------------------------------------------------------
+  1.1 Start Date      : Mon, 16 May 2011 12:58:15 +0300
+  1.2 Name/Description: GetDeviceInfo.exe
+  1.3 Version Number  : 
+  1.4 Parameters      : "/soap"
+
+Exception:
+-------------------------------------------------------------------------------
+  2.1 Date   : Mon, 16 May 2011 12:58:15 +0300
+  2.2 Address: 00570053
+  2.3 Module : 
+  2.4 Type   : EAccessViolation
+  2.5 Message: Access violation at address 00570053. Write of address 5AC12CB4.
+
+Computer:
+--------------------------------
+  4.1 Name        : MOSKALENKOMA
+  4.2 User        : SProkushev
+  4.3 Total Memory: 2047 Mb
+  4.4 Free Memory : 1260 Mb
+  4.5 Total Disk  : 30,01 Gb
+  4.6 Free Disk   : 17,77 Gb
+
+Operating System:
+------------------------------------
+  5.1 Type    : Microsoft Windows XP
+  5.2 Build # : 2600
+  5.3 Update  : Service Pack 2
+  5.4 Language: Русский
+
+Call Stack Information:
+--------------------------------------------------------------------------------
+|Address |Module           |Unit             |Class|Procedure/Method      |Line|
+--------------------------------------------------------------------------------
+|00479A81|GetDeviceInfo.exe|MyPrinter.pas    |     |GetWMIPrinterParameter|112 |
+|00479900|GetDeviceInfo.exe|MyPrinter.pas    |     |GetWMIPrinterParameter|101 |
+|00479E07|GetDeviceInfo.exe|MyPrinter.pas    |     |FillPrinterInfo       |174 |
+|00442BF8|GetDeviceInfo.exe|MyWin.pas        |     |ParamExist            |201 |
+|00479D88|GetDeviceInfo.exe|MyPrinter.pas    |     |FillPrinterInfo       |152 |
+|0047B5CF|GetDeviceInfo.exe|GetDeviceInfo.dpr|     |                      |143 |
+--------------------------------------------------------------------------------
+
+Modules Information:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Handle  |Name             |Description                                       |Version         |Size   |Path                                                     |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|00400000|GetDeviceInfo.exe|                                                  |                |612352 |\\corp\root\source\Прокушев\GetDeviceInfo                |
+|20000000|xpsp2res.dll     |Сообщения пакета обновления 2                     |5.1.2600.2180   |2929664|C:\WINDOWS\system32                                      |
+|5AC10000|wbemdisp.dll     |WMI Scripting                                     |5.1.2600.2180   |178176 |C:\WINDOWS\system32\wbem                                 |
+|5BD50000|NETAPI32.dll     |Net Win32 API DLL                                 |5.1.2600.3462   |332800 |C:\WINDOWS\system32                                      |
+|5D5B0000|comctl32.dll     |Common Controls Library                           |5.82.2900.2982  |617472 |C:\WINDOWS\system32                                      |
+|61100000|csma_ldr.dll     |Citrix System Monitoring Agent Loader             |4.5.3278.0      |116040 |C:\WINDOWS\system32                                      |
+|61200000|rsintcor.dll     |Agent Interception Core                           |4.5.3278.0      |234824 |C:\Program Files\Citrix\System Monitoring\Agent\Core     |
+|61300000|esint.dll        |EdgeSight Int Extension                           |4.5.3304.0      |128328 |c:\program files\citrix\system monitoring\agent\edgesight|
+|71A80000|WS2HELP.dll      |Модуль поддержки Windows Socket 2.0 для Windows NT|5.1.2600.2180   |19968  |C:\WINDOWS\system32                                      |
+|71A90000|WS2_32.dll       |Windows Socket 2.0 32-Bit DLL                     |5.1.2600.2180   |82944  |C:\WINDOWS\system32                                      |
+|71AB0000|wsock32.dll      |32-разрядная библиотека Windows Socket            |5.1.2600.2180   |24576  |C:\WINDOWS\system32                                      |
+|72FC0000|winspool.drv     |Драйвер диспетчера очереди Windows                |5.1.2600.2180   |146944 |C:\WINDOWS\system32                                      |
+|74E90000|wbemsvc.dll      |WMI                                               |5.1.2600.2180   |43520  |C:\WINDOWS\system32\wbem                                 |
+|74EB0000|wbemprox.dll     |WMI                                               |5.1.2600.2180   |18944  |C:\WINDOWS\system32\wbem                                 |
+|74FE0000|wmiutils.dll     |WMI                                               |5.1.2600.2180   |97792  |C:\WINDOWS\system32\wbem                                 |
+|75250000|wbemcomn.dll     |WMI                                               |5.1.2600.2180   |214528 |C:\WINDOWS\system32\wbem                                 |
+|75660000|fastprox.dll     |WMI                                               |5.1.2600.3520   |473088 |C:\WINDOWS\system32\wbem                                 |
+|76050000|MSVCP60.dll      |Microsoft (R) C++ Runtime Library                 |6.2.3104.0      |413696 |C:\WINDOWS\system32                                      |
+|76360000|IMM32.DLL        |Windows XP IMM32 API Client DLL                   |5.1.2600.2180   |110080 |C:\WINDOWS\system32                                      |
+|76780000|NTDSAPI.dll      |NT5DS                                             |5.1.2600.2180   |67072  |C:\WINDOWS\system32                                      |
+|76BE0000|PSAPI.DLL        |Process Status Helper                             |5.1.2600.2180   |23040  |C:\WINDOWS\system32                                      |
+|76F10000|DNSAPI.dll       |DNS Client API DLL                                |5.1.2600.3394   |148992 |C:\WINDOWS\system32                                      |
+|76F50000|WLDAP32.dll      |Win32 LDAP API DLL                                |5.1.2600.2180   |172544 |C:\WINDOWS\system32                                      |
+|76FC0000|CLBCATQ.DLL      |                                                  |2001.12.4414.308|498688 |C:\WINDOWS\system32                                      |
+|77040000|COMRes.dll       |                                                  |2001.12.4414.258|797696 |C:\WINDOWS\system32                                      |
+|77110000|oleaut32.dll     |                                                  |5.1.2600.3266   |550912 |C:\WINDOWS\system32                                      |
+|774D0000|ole32.dll        |Microsoft OLE для  Windows                        |5.1.2600.2726   |1284608|C:\WINDOWS\system32                                      |
+|77BF0000|version.dll      |Version Checking and File Installation Libraries  |5.1.2600.2180   |18944  |C:\WINDOWS\system32                                      |
+|77C00000|msvcrt.dll       |Windows NT CRT DLL                                |7.0.2600.2180   |343040 |C:\WINDOWS\system32                                      |
+|77DC0000|advapi32.dll     |Расширенная библиотека API Windows 32             |5.1.2600.3520   |687104 |C:\WINDOWS\system32                                      |
+|77E70000|RPCRT4.dll       |Remote Procedure Call Runtime                     |5.1.2600.3555   |584192 |C:\WINDOWS\system32                                      |
+|77F10000|GDI32.dll        |GDI Client DLL                                    |5.1.2600.3466   |283648 |C:\WINDOWS\system32                                      |
+|77FE0000|Secur32.dll      |Security Support Provider Interface               |5.1.2600.3592   |56320  |C:\WINDOWS\system32                                      |
+|7C800000|kernel32.dll     |Библиотека клиента Windows NT BASE API            |5.1.2600.3541   |992256 |C:\WINDOWS\system32                                      |
+|7C900000|ntdll.dll        |Системная библиотека NT                           |5.1.2600.3520   |718848 |C:\WINDOWS\system32                                      |
+|7E360000|user32.dll       |Библиотека клиента USER API Windows XP            |5.1.2600.3099   |578048 |C:\WINDOWS\system32                                      |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Registers:
+-----------------------------
+EAX: 0040D18B   EDI: 00000002
+EBX: 00403B47   ESI: 00040000
+ECX: 00B83450   ESP: 00000000
+EDX: 0012F704   EIP: 0040D1AA
+
+Stack:               Memory Dump:
+------------------   ---------------------------------------------------------------------------
+0012F9D0: 00479A84   00570053: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9D4: 008D73A0   00570063: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9D8: 00000000   00570073: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9DC: 0012FA44   00570083: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9E0: 0012FA78   00570093: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9E4: 00404114   005700A3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9E8: 0012FA70   005700B3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9EC: 0048CE6C   005700C3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9F0: 00486128   005700D3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9F4: 00000000   005700E3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9F8: 00000000   005700F3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9FC: 00000000   00570103: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012FA00: 00000000   00570113: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012FA04: 00000000   00570123: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012FA08: 00000000   00570133: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012FA0C: 00000000   00570143: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+
+
+
+EurekaLog 4.5.7
+
+Application:
+-------------------------------------------------------
+  1.1 Start Date      : Mon, 16 May 2011 12:59:37 +0300
+  1.2 Name/Description: GetDeviceInfo.exe
+  1.3 Version Number  : 
+  1.4 Parameters      : "/soap" "/test"
+
+Exception:
+-------------------------------------------------------------------------------
+  2.1 Date   : Mon, 16 May 2011 12:59:37 +0300
+  2.2 Address: 00570053
+  2.3 Module : 
+  2.4 Type   : EAccessViolation
+  2.5 Message: Access violation at address 00570053. Write of address 5AC12CB4.
+
+Computer:
+--------------------------------
+  4.1 Name        : MOSKALENKOMA
+  4.2 User        : SProkushev
+  4.3 Total Memory: 2047 Mb
+  4.4 Free Memory : 1263 Mb
+  4.5 Total Disk  : 30,01 Gb
+  4.6 Free Disk   : 17,77 Gb
+
+Operating System:
+------------------------------------
+  5.1 Type    : Microsoft Windows XP
+  5.2 Build # : 2600
+  5.3 Update  : Service Pack 2
+  5.4 Language: Русский
+
+Call Stack Information:
+--------------------------------------------------------------------------------
+|Address |Module           |Unit             |Class|Procedure/Method      |Line|
+--------------------------------------------------------------------------------
+|00479A81|GetDeviceInfo.exe|MyPrinter.pas    |     |GetWMIPrinterParameter|112 |
+|00479900|GetDeviceInfo.exe|MyPrinter.pas    |     |GetWMIPrinterParameter|101 |
+|00479E07|GetDeviceInfo.exe|MyPrinter.pas    |     |FillPrinterInfo       |174 |
+|00442BF8|GetDeviceInfo.exe|MyWin.pas        |     |ParamExist            |201 |
+|00479D88|GetDeviceInfo.exe|MyPrinter.pas    |     |FillPrinterInfo       |152 |
+|0047B5CF|GetDeviceInfo.exe|GetDeviceInfo.dpr|     |                      |143 |
+--------------------------------------------------------------------------------
+
+Modules Information:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Handle  |Name             |Description                                       |Version         |Size   |Path                                                     |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|00400000|GetDeviceInfo.exe|                                                  |                |612352 |\\corp\root\source\Прокушев\GetDeviceInfo                |
+|20000000|xpsp2res.dll     |Сообщения пакета обновления 2                     |5.1.2600.2180   |2929664|C:\WINDOWS\system32                                      |
+|5AC10000|wbemdisp.dll     |WMI Scripting                                     |5.1.2600.2180   |178176 |C:\WINDOWS\system32\wbem                                 |
+|5BD50000|NETAPI32.dll     |Net Win32 API DLL                                 |5.1.2600.3462   |332800 |C:\WINDOWS\system32                                      |
+|5D5B0000|comctl32.dll     |Common Controls Library                           |5.82.2900.2982  |617472 |C:\WINDOWS\system32                                      |
+|61100000|csma_ldr.dll     |Citrix System Monitoring Agent Loader             |4.5.3278.0      |116040 |C:\WINDOWS\system32                                      |
+|61200000|rsintcor.dll     |Agent Interception Core                           |4.5.3278.0      |234824 |C:\Program Files\Citrix\System Monitoring\Agent\Core     |
+|61300000|esint.dll        |EdgeSight Int Extension                           |4.5.3304.0      |128328 |c:\program files\citrix\system monitoring\agent\edgesight|
+|71A80000|WS2HELP.dll      |Модуль поддержки Windows Socket 2.0 для Windows NT|5.1.2600.2180   |19968  |C:\WINDOWS\system32                                      |
+|71A90000|WS2_32.dll       |Windows Socket 2.0 32-Bit DLL                     |5.1.2600.2180   |82944  |C:\WINDOWS\system32                                      |
+|71AB0000|wsock32.dll      |32-разрядная библиотека Windows Socket            |5.1.2600.2180   |24576  |C:\WINDOWS\system32                                      |
+|72FC0000|winspool.drv     |Драйвер диспетчера очереди Windows                |5.1.2600.2180   |146944 |C:\WINDOWS\system32                                      |
+|74E90000|wbemsvc.dll      |WMI                                               |5.1.2600.2180   |43520  |C:\WINDOWS\system32\wbem                                 |
+|74EB0000|wbemprox.dll     |WMI                                               |5.1.2600.2180   |18944  |C:\WINDOWS\system32\wbem                                 |
+|74FE0000|wmiutils.dll     |WMI                                               |5.1.2600.2180   |97792  |C:\WINDOWS\system32\wbem                                 |
+|75250000|wbemcomn.dll     |WMI                                               |5.1.2600.2180   |214528 |C:\WINDOWS\system32\wbem                                 |
+|75660000|fastprox.dll     |WMI                                               |5.1.2600.3520   |473088 |C:\WINDOWS\system32\wbem                                 |
+|76050000|MSVCP60.dll      |Microsoft (R) C++ Runtime Library                 |6.2.3104.0      |413696 |C:\WINDOWS\system32                                      |
+|76360000|IMM32.DLL        |Windows XP IMM32 API Client DLL                   |5.1.2600.2180   |110080 |C:\WINDOWS\system32                                      |
+|76780000|NTDSAPI.dll      |NT5DS                                             |5.1.2600.2180   |67072  |C:\WINDOWS\system32                                      |
+|76BE0000|PSAPI.DLL        |Process Status Helper                             |5.1.2600.2180   |23040  |C:\WINDOWS\system32                                      |
+|76F10000|DNSAPI.dll       |DNS Client API DLL                                |5.1.2600.3394   |148992 |C:\WINDOWS\system32                                      |
+|76F50000|WLDAP32.dll      |Win32 LDAP API DLL                                |5.1.2600.2180   |172544 |C:\WINDOWS\system32                                      |
+|76FC0000|CLBCATQ.DLL      |                                                  |2001.12.4414.308|498688 |C:\WINDOWS\system32                                      |
+|77040000|COMRes.dll       |                                                  |2001.12.4414.258|797696 |C:\WINDOWS\system32                                      |
+|77110000|oleaut32.dll     |                                                  |5.1.2600.3266   |550912 |C:\WINDOWS\system32                                      |
+|774D0000|ole32.dll        |Microsoft OLE для  Windows                        |5.1.2600.2726   |1284608|C:\WINDOWS\system32                                      |
+|77BF0000|version.dll      |Version Checking and File Installation Libraries  |5.1.2600.2180   |18944  |C:\WINDOWS\system32                                      |
+|77C00000|msvcrt.dll       |Windows NT CRT DLL                                |7.0.2600.2180   |343040 |C:\WINDOWS\system32                                      |
+|77DC0000|advapi32.dll     |Расширенная библиотека API Windows 32             |5.1.2600.3520   |687104 |C:\WINDOWS\system32                                      |
+|77E70000|RPCRT4.dll       |Remote Procedure Call Runtime                     |5.1.2600.3555   |584192 |C:\WINDOWS\system32                                      |
+|77F10000|GDI32.dll        |GDI Client DLL                                    |5.1.2600.3466   |283648 |C:\WINDOWS\system32                                      |
+|77FE0000|Secur32.dll      |Security Support Provider Interface               |5.1.2600.3592   |56320  |C:\WINDOWS\system32                                      |
+|7C800000|kernel32.dll     |Библиотека клиента Windows NT BASE API            |5.1.2600.3541   |992256 |C:\WINDOWS\system32                                      |
+|7C900000|ntdll.dll        |Системная библиотека NT                           |5.1.2600.3520   |718848 |C:\WINDOWS\system32                                      |
+|7E360000|user32.dll       |Библиотека клиента USER API Windows XP            |5.1.2600.3099   |578048 |C:\WINDOWS\system32                                      |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Registers:
+-----------------------------
+EAX: 0040D18B   EDI: 00000002
+EBX: 00403B47   ESI: 00040000
+ECX: 00B83450   ESP: 00000000
+EDX: 0012F704   EIP: 0040D1AA
+
+Stack:               Memory Dump:
+------------------   ---------------------------------------------------------------------------
+0012F9D0: 00479A84   00570053: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9D4: 008D73A0   00570063: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9D8: 00000000   00570073: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9DC: 0012FA44   00570083: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9E0: 0012FA78   00570093: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9E4: 00404114   005700A3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9E8: 0012FA70   005700B3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9EC: 0048CE6C   005700C3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9F0: 00486128   005700D3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9F4: 00000000   005700E3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9F8: 00000000   005700F3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9FC: 00000000   00570103: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012FA00: 00000000   00570113: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012FA04: 00000000   00570123: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012FA08: 00000000   00570133: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012FA0C: 00000000   00570143: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+
+
+
+EurekaLog 4.5.7
+
+Application:
+-------------------------------------------------------
+  1.1 Start Date      : Mon, 16 May 2011 13:03:05 +0300
+  1.2 Name/Description: GetDeviceInfo.exe
+  1.3 Version Number  : 
+  1.4 Parameters      : "/soap" "/test"
+
+Exception:
+-------------------------------------------------------------------------------
+  2.1 Date   : Mon, 16 May 2011 13:03:06 +0300
+  2.2 Address: 00570053
+  2.3 Module : 
+  2.4 Type   : EAccessViolation
+  2.5 Message: Access violation at address 00570053. Write of address 5AC12CB4.
+
+Computer:
+--------------------------------
+  4.1 Name        : MOSKALENKOMA
+  4.2 User        : SProkushev
+  4.3 Total Memory: 2047 Mb
+  4.4 Free Memory : 1264 Mb
+  4.5 Total Disk  : 30,01 Gb
+  4.6 Free Disk   : 17,77 Gb
+
+Operating System:
+------------------------------------
+  5.1 Type    : Microsoft Windows XP
+  5.2 Build # : 2600
+  5.3 Update  : Service Pack 2
+  5.4 Language: Русский
+
+Call Stack Information:
+--------------------------------------------------------------------------------
+|Address |Module           |Unit             |Class|Procedure/Method      |Line|
+--------------------------------------------------------------------------------
+|00479AB6|GetDeviceInfo.exe|MyPrinter.pas    |     |GetWMIPrinterParameter|117 |
+|00479900|GetDeviceInfo.exe|MyPrinter.pas    |     |GetWMIPrinterParameter|101 |
+|00479E5B|GetDeviceInfo.exe|MyPrinter.pas    |     |FillPrinterInfo       |179 |
+|00442BF8|GetDeviceInfo.exe|MyWin.pas        |     |ParamExist            |201 |
+|00479DDC|GetDeviceInfo.exe|MyPrinter.pas    |     |FillPrinterInfo       |157 |
+|0047B623|GetDeviceInfo.exe|GetDeviceInfo.dpr|     |                      |143 |
+--------------------------------------------------------------------------------
+
+Modules Information:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Handle  |Name             |Description                                       |Version         |Size   |Path                                                     |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|00400000|GetDeviceInfo.exe|                                                  |                |612352 |\\corp\root\source\Прокушев\GetDeviceInfo                |
+|20000000|xpsp2res.dll     |Сообщения пакета обновления 2                     |5.1.2600.2180   |2929664|C:\WINDOWS\system32                                      |
+|5AC10000|wbemdisp.dll     |WMI Scripting                                     |5.1.2600.2180   |178176 |C:\WINDOWS\system32\wbem                                 |
+|5BD50000|NETAPI32.dll     |Net Win32 API DLL                                 |5.1.2600.3462   |332800 |C:\WINDOWS\system32                                      |
+|5D5B0000|comctl32.dll     |Common Controls Library                           |5.82.2900.2982  |617472 |C:\WINDOWS\system32                                      |
+|61100000|csma_ldr.dll     |Citrix System Monitoring Agent Loader             |4.5.3278.0      |116040 |C:\WINDOWS\system32                                      |
+|61200000|rsintcor.dll     |Agent Interception Core                           |4.5.3278.0      |234824 |C:\Program Files\Citrix\System Monitoring\Agent\Core     |
+|61300000|esint.dll        |EdgeSight Int Extension                           |4.5.3304.0      |128328 |c:\program files\citrix\system monitoring\agent\edgesight|
+|71A80000|WS2HELP.dll      |Модуль поддержки Windows Socket 2.0 для Windows NT|5.1.2600.2180   |19968  |C:\WINDOWS\system32                                      |
+|71A90000|WS2_32.dll       |Windows Socket 2.0 32-Bit DLL                     |5.1.2600.2180   |82944  |C:\WINDOWS\system32                                      |
+|71AB0000|wsock32.dll      |32-разрядная библиотека Windows Socket            |5.1.2600.2180   |24576  |C:\WINDOWS\system32                                      |
+|72FC0000|winspool.drv     |Драйвер диспетчера очереди Windows                |5.1.2600.2180   |146944 |C:\WINDOWS\system32                                      |
+|74E90000|wbemsvc.dll      |WMI                                               |5.1.2600.2180   |43520  |C:\WINDOWS\system32\wbem                                 |
+|74EB0000|wbemprox.dll     |WMI                                               |5.1.2600.2180   |18944  |C:\WINDOWS\system32\wbem                                 |
+|74FE0000|wmiutils.dll     |WMI                                               |5.1.2600.2180   |97792  |C:\WINDOWS\system32\wbem                                 |
+|75250000|wbemcomn.dll     |WMI                                               |5.1.2600.2180   |214528 |C:\WINDOWS\system32\wbem                                 |
+|75660000|fastprox.dll     |WMI                                               |5.1.2600.3520   |473088 |C:\WINDOWS\system32\wbem                                 |
+|76050000|MSVCP60.dll      |Microsoft (R) C++ Runtime Library                 |6.2.3104.0      |413696 |C:\WINDOWS\system32                                      |
+|76360000|IMM32.DLL        |Windows XP IMM32 API Client DLL                   |5.1.2600.2180   |110080 |C:\WINDOWS\system32                                      |
+|76780000|NTDSAPI.dll      |NT5DS                                             |5.1.2600.2180   |67072  |C:\WINDOWS\system32                                      |
+|76BE0000|PSAPI.DLL        |Process Status Helper                             |5.1.2600.2180   |23040  |C:\WINDOWS\system32                                      |
+|76F10000|DNSAPI.dll       |DNS Client API DLL                                |5.1.2600.3394   |148992 |C:\WINDOWS\system32                                      |
+|76F50000|WLDAP32.dll      |Win32 LDAP API DLL                                |5.1.2600.2180   |172544 |C:\WINDOWS\system32                                      |
+|76FC0000|CLBCATQ.DLL      |                                                  |2001.12.4414.308|498688 |C:\WINDOWS\system32                                      |
+|77040000|COMRes.dll       |                                                  |2001.12.4414.258|797696 |C:\WINDOWS\system32                                      |
+|77110000|oleaut32.dll     |                                                  |5.1.2600.3266   |550912 |C:\WINDOWS\system32                                      |
+|774D0000|ole32.dll        |Microsoft OLE для  Windows                        |5.1.2600.2726   |1284608|C:\WINDOWS\system32                                      |
+|77BF0000|version.dll      |Version Checking and File Installation Libraries  |5.1.2600.2180   |18944  |C:\WINDOWS\system32                                      |
+|77C00000|msvcrt.dll       |Windows NT CRT DLL                                |7.0.2600.2180   |343040 |C:\WINDOWS\system32                                      |
+|77DC0000|advapi32.dll     |Расширенная библиотека API Windows 32             |5.1.2600.3520   |687104 |C:\WINDOWS\system32                                      |
+|77E70000|RPCRT4.dll       |Remote Procedure Call Runtime                     |5.1.2600.3555   |584192 |C:\WINDOWS\system32                                      |
+|77F10000|GDI32.dll        |GDI Client DLL                                    |5.1.2600.3466   |283648 |C:\WINDOWS\system32                                      |
+|77FE0000|Secur32.dll      |Security Support Provider Interface               |5.1.2600.3592   |56320  |C:\WINDOWS\system32                                      |
+|7C800000|kernel32.dll     |Библиотека клиента Windows NT BASE API            |5.1.2600.3541   |992256 |C:\WINDOWS\system32                                      |
+|7C900000|ntdll.dll        |Системная библиотека NT                           |5.1.2600.3520   |718848 |C:\WINDOWS\system32                                      |
+|7E360000|user32.dll       |Библиотека клиента USER API Windows XP            |5.1.2600.3099   |578048 |C:\WINDOWS\system32                                      |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Registers:
+-----------------------------
+EAX: 0040D18B   EDI: 00000002
+EBX: 00403B47   ESI: 00040000
+ECX: 00B83450   ESP: 00000000
+EDX: 0012F6FC   EIP: 0040D1AA
+
+Stack:               Memory Dump:
+------------------   ---------------------------------------------------------------------------
+0012F9C8: 00479AB9   00570053: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9CC: 008D73A0   00570063: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9D0: 00000000   00570073: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9D4: 0012FA44   00570083: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9D8: 0012FA78   00570093: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9DC: 00404114   005700A3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9E0: 0012FA70   005700B3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9E4: 0048CE6C   005700C3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9E8: 00486128   005700D3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9EC: 00000000   005700E3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9F0: 00000000   005700F3: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9F4: 00000000   00570103: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9F8: 00000000   00570113: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012F9FC: 00000000   00570123: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012FA00: 00000000   00570133: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0012FA04: 00000000   00570143: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+
+
+
+
+
