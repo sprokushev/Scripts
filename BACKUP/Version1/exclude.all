@@ -1,0 +1,18 @@
+*.vob
+*.bak
+*.log
+*.tmp
+*.dat~
+*\temp\*
+*\tmp\*
+*Temporary Internet Files*
+NTUSER.DAT
+NTUSER.DAT.LOG
+UsrClass.dat
+UsrClass.dat.LOG
+*SkyDrive*
+*History.IE5*
+*\Program Files (x86)\*
+*\Program Files\*
+*\AppData\Local\*
+*P1010358.MP4
